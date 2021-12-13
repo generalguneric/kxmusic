@@ -1,10 +1,10 @@
 ﻿l_english:
 #Radios
-AUS_ravag_radio:0 "RAVAG"
-ALB_radio_tirana:0 "Radio Tirana"
+AUS_ravag_radio_TITLE:0 "RAVAG"
+ALB_radio_tirana_TITLE:0 "Radio Tirana"
 BUL_radio_sofia_TITLE:0 "Radio Sofia"
 HOL_radio_nederland_wereldomroep_TITLE:0 "Radio Nederland Wereldomroep"
-HUN_radio_orion:0 "Orion Rádió"
+HUN_radio_orion_TITLE:0 "Orion Rádió"
 
 
 
