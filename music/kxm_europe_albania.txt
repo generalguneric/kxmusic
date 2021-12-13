@@ -1,0 +1,1058 @@
+music_station = "ALB_radio_tirana"
+
+music = {
+	song = "agim_ramadani_katana"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "albanian"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "albulena"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "ballin_lart_gjoksin_zjarr"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "buze_adriatikut"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "cifteli"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "cili_more_burre"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "clirimtari"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "cuni_vogel"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "deshmoreve_lirise"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "dhenduret_arberit"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "do_kthehem_prishtine"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "ecim_rrugen_enverit"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "enver_hoxha_epoke"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "enver_hoxha_tungjatjeta"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "epopeja_uck"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "feste_madhe_shqiperia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "flamuri_clirimit"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "garda_kosoves"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "hakmarrje_rini"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "hasan_faslise"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "heronjte_kosoves"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "himni_bbretit_shqiperise"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "himni_flamurit"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "himni_flamurit_instrumental"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "himni_mbreteror"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "hymni_brigades_sulmuese"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "internacionale"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "jam_cike_dragobia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "jam_kosova_shqiptarise"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "jarnana"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "kenga_clirimit_korces"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "ketu_shkelqen_plisi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "komandant"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "kosovari"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "kuq_zi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "lule_bukura_enver"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "lulja_koshares"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "maja_rippa_rippa"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "marshi_uck"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "marshime_partizane"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "mes_flamujsh_kuq"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "mora_fjale"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "ndale_shkaun_moj_evrope"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "nentori_lirise"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "nijazi_azemi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "nje_djep_barrikade"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "njeren_dore_kazmen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "parti_punes_parti_trimave"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "partizani_lufte_shkonte"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "porsi_dielli_republika"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "porsi_fleta_ejllit_zotit"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "presheva"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "qendrojme_malet"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "rini_rini"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "rofte_enver_malet_tona"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "shqiperi_nana_ime"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "shqiponjat_partizane"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "tirana_pekini"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "tiranen_tone"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "urome_baba_urome"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "ushtar_kavaja"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "valle_kosovare"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "xhaketa_kuqe"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "xheme_gostivari"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}
+music = {
+	song = "zani_koshares"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALB	
+		}
+	}
+}

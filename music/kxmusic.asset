@@ -1,530 +1,881 @@
+#### Albania
+music = {
+	name = "agim_ramadani_katana"
+	file = "ALB_radio_tirana/agim_ramadani_katana.ogg"
+	volume = 1
+}
+music = {
+	name = "albanian"
+	file = "ALB_radio_tirana/albanian.ogg"
+	volume = 1
+}
+music = {
+	name = "albulena"
+	file = "ALB_radio_tirana/albulena.ogg"
+	volume = 1
+}
+music = {
+	name = "ballin_lart_gjoksin_zjarr"
+	file = "ALB_radio_tirana/ballin_lart_gjoksin_zjarr.ogg"
+	volume = 1
+}
+music = {
+	name = "buze_adriatikut"
+	file = "ALB_radio_tirana/buze_adriatikut.ogg"
+	volume = 1
+}
+music = {
+	name = "cifteli"
+	file = "ALB_radio_tirana/cifteli.ogg"
+	volume = 1
+}
+music = {
+	name = "cili_more_burre"
+	file = "ALB_radio_tirana/cili_more_burre.ogg"
+	volume = 1
+}
+music = {
+	name = "clirimtari"
+	file = "ALB_radio_tirana/clirimtari.ogg"
+	volume = 1
+}
+music = {
+	name = "cuni_vogel"
+	file = "ALB_radio_tirana/cuni_vogel.ogg"
+	volume = 1
+}
+music = {
+	name = "deshmoreve_lirise"
+	file = "ALB_radio_tirana/deshmoreve_lirise.ogg"
+	volume = 1
+}
+music = {
+	name = "dhenduret_arberit"
+	file = "ALB_radio_tirana/dhenduret_arberit.ogg"
+	volume = 1
+}
+music = {
+	name = "do_kthehem_prishtine"
+	file = "ALB_radio_tirana/do_kthehem_prishtine.ogg"
+	volume = 1
+}
+music = {
+	name = "ecim_rrugen_enverit"
+	file = "ALB_radio_tirana/ecim_rrugen_enverit.ogg"
+	volume = 1
+}
+music = {
+	name = "enver_hoxha_epoke"
+	file = "ALB_radio_tirana/enver_hoxha_epoke.ogg"
+	volume = 1
+}
+music = {
+	name = "enver_hoxha_tungjatjeta"
+	file = "ALB_radio_tirana/enver_hoxha_tungjatjeta.ogg"
+	volume = 1
+}
+music = {
+	name = "epopeja_uck"
+	file = "ALB_radio_tirana/epopeja_uck.ogg"
+	volume = 1
+}
+music = {
+	name = "feste_madhe_shqiperia"
+	file = "ALB_radio_tirana/feste_madhe_shqiperia.ogg"
+	volume = 1
+}
+music = {
+	name = "flamuri_clirimit"
+	file = "ALB_radio_tirana/flamuri_clirimit.ogg"
+	volume = 1
+}
+music = {
+	name = "garda_kosoves"
+	file = "ALB_radio_tirana/garda_kosoves.ogg"
+	volume = 1
+}
+music = {
+	name = "hakmarrje_rini"
+	file = "ALB_radio_tirana/hakmarrje_rini.ogg"
+	volume = 1
+}
+music = {
+	name = "hasan_faslise"
+	file = "ALB_radio_tirana/hasan_faslise.ogg"
+	volume = 1
+}
+music = {
+	name = "heronjte_kosoves"
+	file = "ALB_radio_tirana/heronjte_kosoves.ogg"
+	volume = 1
+}
+music = {
+	name = "himni_bbretit_shqiperise"
+	file = "ALB_radio_tirana/himni_bbretit_shqiperise.ogg"
+	volume = 1
+}
+music = {
+	name = "himni_flamurit"
+	file = "ALB_radio_tirana/himni_flamurit.ogg"
+	volume = 1
+}
+music = {
+	name = "himni_flamurit_instrumental"
+	file = "ALB_radio_tirana/himni_flamurit_instrumental.ogg"
+	volume = 1
+}
+music = {
+	name = "himni_mbreteror"
+	file = "ALB_radio_tirana/himni_mbreteror.ogg"
+	volume = 1
+}
+music = {
+	name = "hymni_brigades_sulmuese"
+	file = "ALB_radio_tirana/hymni_brigades_sulmuese.ogg"
+	volume = 1
+}
+music = {
+	name = "internacionale"
+	file = "ALB_radio_tirana/internacionale.ogg"
+	volume = 1
+}
+music = {
+	name = "jam_cike_dragobia"
+	file = "ALB_radio_tirana/jam_cike_dragobia.ogg"
+	volume = 1
+}
+music = {
+	name = "jam_kosova_shqiptarise"
+	file = "ALB_radio_tirana/jam_kosova_shqiptarise.ogg"
+	volume = 1
+}
+music = {
+	name = "jarnana"
+	file = "ALB_radio_tirana/jarnana.ogg"
+	volume = 1
+}
+music = {
+	name = "kenga_clirimit_korces"
+	file = "ALB_radio_tirana/kenga_clirimit_korces.ogg"
+	volume = 1
+}
+music = {
+	name = "ketu_shkelqen_plisi"
+	file = "ALB_radio_tirana/ketu_shkelqen_plisi.ogg"
+	volume = 1
+}
+music = {
+	name = "komandant"
+	file = "ALB_radio_tirana/komandant.ogg"
+	volume = 1
+}
+music = {
+	name = "kosovari"
+	file = "ALB_radio_tirana/kosovari.ogg"
+	volume = 1
+}
+music = {
+	name = "kuq_zi"
+	file = "ALB_radio_tirana/kuq_zi.ogg"
+	volume = 1
+}
+music = {
+	name = "lule_bukura_enver"
+	file = "ALB_radio_tirana/lule_bukura_enver.ogg"
+	volume = 1
+}
+music = {
+	name = "lulja_koshares"
+	file = "ALB_radio_tirana/lulja_koshares.ogg"
+	volume = 1
+}
+music = {
+	name = "maja_rippa_rippa"
+	file = "ALB_radio_tirana/maja_rippa_rippa.ogg"
+	volume = 1
+}
+music = {
+	name = "marshi_uck"
+	file = "ALB_radio_tirana/marshi_uck.ogg"
+	volume = 1
+}
+music = {
+	name = "marshime_partizane"
+	file = "ALB_radio_tirana/marshime_partizane.ogg"
+	volume = 1
+}
+music = {
+	name = "mes_flamujsh_kuq"
+	file = "ALB_radio_tirana/mes_flamujsh_kuq.ogg"
+	volume = 1
+}
+music = {
+	name = "mora_fjale"
+	file = "ALB_radio_tirana/mora_fjale.ogg"
+	volume = 1
+}
+music = {
+	name = "ndale_shkaun_moj_evrope"
+	file = "ALB_radio_tirana/ndale_shkaun_moj_evrope.ogg"
+	volume = 1
+}
+music = {
+	name = "nentori_lirise"
+	file = "ALB_radio_tirana/nentori_lirise.ogg"
+	volume = 1
+}
+music = {
+	name = "nijazi_azemi"
+	file = "ALB_radio_tirana/nijazi_azemi.ogg"
+	volume = 1
+}
+music = {
+	name = "nje_djep_barrikade"
+	file = "ALB_radio_tirana/nje_djep_barrikade.ogg"
+	volume = 1
+}
+music = {
+	name = "njeren_dore_kazmen"
+	file = "ALB_radio_tirana/njeren_dore_kazmen.ogg"
+	volume = 1
+}
+music = {
+	name = "parti_punes_parti_trimave"
+	file = "ALB_radio_tirana/parti_punes_parti_trimave.ogg"
+	volume = 1
+}
+music = {
+	name = "partizani_lufte_shkonte"
+	file = "ALB_radio_tirana/partizani_lufte_shkonte.ogg"
+	volume = 1
+}
+music = {
+	name = "porsi_dielli_republika"
+	file = "ALB_radio_tirana/porsi_dielli_republika.ogg"
+	volume = 1
+}
+music = {
+	name = "porsi_fleta_ejllit_zotit"
+	file = "ALB_radio_tirana/porsi_fleta_ejllit_zotit.ogg"
+	volume = 1
+}
+music = {
+	name = "presheva"
+	file = "ALB_radio_tirana/presheva.ogg"
+	volume = 1
+}
+music = {
+	name = "qendrojme_malet"
+	file = "ALB_radio_tirana/qendrojme_malet.ogg"
+	volume = 1
+}
+music = {
+	name = "rini_rini"
+	file = "ALB_radio_tirana/rini_rini.ogg"
+	volume = 1
+}
+music = {
+	name = "rofte_enver_malet_tona"
+	file = "ALB_radio_tirana/rofte_enver_malet_tona.ogg"
+	volume = 1
+}
+music = {
+	name = "shqiperi_nana_ime"
+	file = "ALB_radio_tirana/shqiperi_nana_ime.ogg"
+	volume = 1
+}
+music = {
+	name = "shqiponjat_partizane"
+	file = "ALB_radio_tirana/shqiponjat_partizane.ogg"
+	volume = 1
+}
+music = {
+	name = "tirana_pekini"
+	file = "ALB_radio_tirana/tirana_pekini.ogg"
+	volume = 1
+}
+music = {
+	name = "tiranen_tone"
+	file = "ALB_radio_tirana/tiranen_tone.ogg"
+	volume = 1
+}
+music = {
+	name = "urome_baba_urome"
+	file = "ALB_radio_tirana/urome_baba_urome.ogg"
+	volume = 1
+}
+music = {
+	name = "ushtar_kavaja"
+	file = "ALB_radio_tirana/ushtar_kavaja.ogg"
+	volume = 1
+}
+music = {
+	name = "valle_kosovare"
+	file = "ALB_radio_tirana/valle_kosovare.ogg"
+	volume = 1
+}
+music = {
+	name = "xhaketa_kuqe"
+	file = "ALB_radio_tirana/xhaketa_kuqe.ogg"
+	volume = 1
+}
+music = {
+	name = "xheme_gostivari"
+	file = "ALB_radio_tirana/xheme_gostivari.ogg"
+	volume = 1
+}
+music = {
+	name = "zani_koshares"
+	file = "ALB_radio_tirana/zani_koshares.ogg"
+	volume = 1
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bulgaria
 
 
 music = {
 	name = "bulgarian_song_1"
 	file = "BUL_radio_sofia/bulgarian_song_1.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_2"
 	file = "BUL_radio_sofia/bulgarian_song_2.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_3"
 	file = "BUL_radio_sofia/bulgarian_song_3.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_4"
 	file = "BUL_radio_sofia/bulgarian_song_4.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_5"
 	file = "BUL_radio_sofia/bulgarian_song_5.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_6"
 	file = "BUL_radio_sofia/bulgarian_song_6.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_7"
 	file = "BUL_radio_sofia/bulgarian_song_7.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_8"
 	file = "BUL_radio_sofia/bulgarian_song_8.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_9"
 	file = "BUL_radio_sofia/bulgarian_song_9.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_10"
 	file = "BUL_radio_sofia/bulgarian_song_10.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_11"
 	file = "BUL_radio_sofia/bulgarian_song_11.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_12"
 	file = "BUL_radio_sofia/bulgarian_song_12.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_13"
 	file = "BUL_radio_sofia/bulgarian_song_13.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_14"
 	file = "BUL_radio_sofia/bulgarian_song_14.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_15"
 	file = "BUL_radio_sofia/bulgarian_song_15.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_16"
 	file = "BUL_radio_sofia/bulgarian_song_16.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_17"
 	file = "BUL_radio_sofia/bulgarian_song_17.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_18"
 	file = "BUL_radio_sofia/bulgarian_song_18.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_19"
 	file = "BUL_radio_sofia/bulgarian_song_19.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_20"
 	file = "BUL_radio_sofia/bulgarian_song_20.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_21"
 	file = "BUL_radio_sofia/bulgarian_song_21.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_22"
 	file = "BUL_radio_sofia/bulgarian_song_22.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_23"
 	file = "BUL_radio_sofia/bulgarian_song_23.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_24"
 	file = "BUL_radio_sofia/bulgarian_song_24.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_25"
 	file = "BUL_radio_sofia/bulgarian_song_25.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_26"
 	file = "BUL_radio_sofia/bulgarian_song_26.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_27"
 	file = "BUL_radio_sofia/bulgarian_song_27.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_28"
 	file = "BUL_radio_sofia/bulgarian_song_28.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_29"
 	file = "BUL_radio_sofia/bulgarian_song_29.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_30"
 	file = "BUL_radio_sofia/bulgarian_song_30.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_31"
 	file = "BUL_radio_sofia/bulgarian_song_31.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_32"
 	file = "BUL_radio_sofia/bulgarian_song_32.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_33"
 	file = "BUL_radio_sofia/bulgarian_song_33.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_34"
 	file = "BUL_radio_sofia/bulgarian_song_34.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_35"
 	file = "BUL_radio_sofia/bulgarian_song_35.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_36"
 	file = "BUL_radio_sofia/bulgarian_song_36.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_37"
 	file = "BUL_radio_sofia/bulgarian_song_37.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_38"
 	file = "BUL_radio_sofia/bulgarian_song_38.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_39"
 	file = "BUL_radio_sofia/bulgarian_song_39.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_40"
 	file = "BUL_radio_sofia/bulgarian_song_40.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_41"
 	file = "BUL_radio_sofia/bulgarian_song_41.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_42"
 	file = "BUL_radio_sofia/bulgarian_song_42.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_43"
 	file = "BUL_radio_sofia/bulgarian_song_43.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_44"
 	file = "BUL_radio_sofia/bulgarian_song_44.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_45"
 	file = "BUL_radio_sofia/bulgarian_song_45.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_46"
 	file = "BUL_radio_sofia/bulgarian_song_46.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_47"
 	file = "BUL_radio_sofia/bulgarian_song_47.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_48"
 	file = "BUL_radio_sofia/bulgarian_song_48.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_49"
 	file = "BUL_radio_sofia/bulgarian_song_49.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_50"
 	file = "BUL_radio_sofia/bulgarian_song_50.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_51"
 	file = "BUL_radio_sofia/bulgarian_song_51.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_52"
 	file = "BUL_radio_sofia/bulgarian_song_52.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_53"
 	file = "BUL_radio_sofia/bulgarian_song_53.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_54"
 	file = "BUL_radio_sofia/bulgarian_song_54.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_55"
 	file = "BUL_radio_sofia/bulgarian_song_55.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_56"
 	file = "BUL_radio_sofia/bulgarian_song_56.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_57"
 	file = "BUL_radio_sofia/bulgarian_song_57.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_58"
 	file = "BUL_radio_sofia/bulgarian_song_58.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_59"
 	file = "BUL_radio_sofia/bulgarian_song_59.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_60"
 	file = "BUL_radio_sofia/bulgarian_song_60.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_61"
 	file = "BUL_radio_sofia/bulgarian_song_61.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_62"
 	file = "BUL_radio_sofia/bulgarian_song_62.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_63"
 	file = "BUL_radio_sofia/bulgarian_song_63.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_64"
 	file = "BUL_radio_sofia/bulgarian_song_64.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_65"
 	file = "BUL_radio_sofia/bulgarian_song_65.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_66"
 	file = "BUL_radio_sofia/bulgarian_song_66.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_67"
 	file = "BUL_radio_sofia/bulgarian_song_67.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_68"
 	file = "BUL_radio_sofia/bulgarian_song_68.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_69"
 	file = "BUL_radio_sofia/bulgarian_song_69.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_70"
 	file = "BUL_radio_sofia/bulgarian_song_70.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_71"
 	file = "BUL_radio_sofia/bulgarian_song_71.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_72"
 	file = "BUL_radio_sofia/bulgarian_song_72.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_73"
 	file = "BUL_radio_sofia/bulgarian_song_73.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_74"
 	file = "BUL_radio_sofia/bulgarian_song_74.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_75"
 	file = "BUL_radio_sofia/bulgarian_song_75.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_76"
 	file = "BUL_radio_sofia/bulgarian_song_76.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_77"
 	file = "BUL_radio_sofia/bulgarian_song_77.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_78"
 	file = "BUL_radio_sofia/bulgarian_song_78.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_79"
 	file = "BUL_radio_sofia/bulgarian_song_79.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_80"
 	file = "BUL_radio_sofia/bulgarian_song_80.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_81"
 	file = "BUL_radio_sofia/bulgarian_song_81.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_82"
 	file = "BUL_radio_sofia/bulgarian_song_82.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_83"
 	file = "BUL_radio_sofia/bulgarian_song_83.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_84"
 	file = "BUL_radio_sofia/bulgarian_song_84.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_85"
 	file = "BUL_radio_sofia/bulgarian_song_85.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_86"
 	file = "BUL_radio_sofia/bulgarian_song_86.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_87"
 	file = "BUL_radio_sofia/bulgarian_song_87.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_88"
 	file = "BUL_radio_sofia/bulgarian_song_88.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_89"
 	file = "BUL_radio_sofia/bulgarian_song_89.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_90"
 	file = "BUL_radio_sofia/bulgarian_song_90.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_91"
 	file = "BUL_radio_sofia/bulgarian_song_91.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_92"
 	file = "BUL_radio_sofia/bulgarian_song_92.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_93"
 	file = "BUL_radio_sofia/bulgarian_song_93.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_94"
 	file = "BUL_radio_sofia/bulgarian_song_94.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_95"
 	file = "BUL_radio_sofia/bulgarian_song_95.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_96"
 	file = "BUL_radio_sofia/bulgarian_song_96.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_97"
 	file = "BUL_radio_sofia/bulgarian_song_97.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_98"
 	file = "BUL_radio_sofia/bulgarian_song_98.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_99"
 	file = "BUL_radio_sofia/bulgarian_song_99.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_100"
 	file = "BUL_radio_sofia/bulgarian_song_100.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_101"
 	file = "BUL_radio_sofia/bulgarian_song_101.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_102"
 	file = "BUL_radio_sofia/bulgarian_song_102.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_103"
 	file = "BUL_radio_sofia/bulgarian_song_103.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_104"
 	file = "BUL_radio_sofia/bulgarian_song_104.ogg"
-	volume = 1.1
+	volume = 1
 }
 music = {
 	name = "bulgarian_song_105"
 	file = "BUL_radio_sofia/bulgarian_song_105.ogg"
-	volume = 1.1
+	volume = 1
 }
 
 

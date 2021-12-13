@@ -6,6 +6,12 @@ SpriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_ALB_radio_tirana"
+		texturefile = "gfx/interface/radio/ALB_radio_tirana.png"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
 		name = "GFX_BUL_radio_sofia"
 		texturefile = "gfx/interface/radio/BUL_radio_sofia.png"
 		noOfFrames = 2
