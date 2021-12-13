@@ -1,0 +1,3530 @@
+music_station = "HUN_radio_orion"
+
+music = {
+	song = "hungarian_song_1"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_3"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_4"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_5"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_6"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_7"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_8"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_9"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_10"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_11"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_12"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_13"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_14"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_15"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_16"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_17"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_18"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_19"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_20"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_21"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_22"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_23"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_24"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_25"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_26"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_27"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_28"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_29"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_30"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_31"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_32"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_33"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_34"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_35"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_36"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_37"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_38"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_39"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_40"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_41"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_42"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_43"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_44"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_45"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_46"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_47"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_48"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_49"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_50"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_51"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_52"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_53"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_54"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_55"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_56"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_57"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_58"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_59"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_60"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_61"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_62"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_63"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_64"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_65"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_66"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_67"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_68"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_69"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_70"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_71"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_72"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_73"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_74"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_75"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_76"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_77"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_78"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_79"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_80"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_81"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_82"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_83"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_84"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_85"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_86"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_87"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_88"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_89"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_90"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_91"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_92"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_93"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_94"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_95"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_96"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_97"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_98"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_99"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_100"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_101"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_102"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_103"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_104"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_105"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_106"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_107"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_108"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_109"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_110"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_111"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_112"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_113"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_114"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_115"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_116"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_117"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_118"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_119"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_120"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_121"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_122"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_123"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_124"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_125"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_126"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_127"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_128"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_129"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_130"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_131"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_132"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_133"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_134"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_135"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_136"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_137"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_138"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_139"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_140"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_141"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_142"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_143"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_144"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_145"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_146"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_147"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_148"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_149"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_150"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_151"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_152"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_153"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_154"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_155"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_156"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_157"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_158"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_159"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_160"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_161"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_162"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_163"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_164"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_165"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_166"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_167"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}
+music = {
+	song = "hungarian_song_168"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HUN
+				tag = FIU
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+		modifier = {
+			factor = 1
+			tag = FIU
+		}
+	}
+}

@@ -1,0 +1,33 @@
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_AUS_ravag_radio"
+		texturefile = "gfx/interface/radio/AUS_ravag_radio.png"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_BUL_radio_sofia"
+		texturefile = "gfx/interface/radio/BUL_radio_sofia.png"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_HOL_radio_nederland_wereldomroep"
+		texturefile = "gfx/interface/radio/HOL_radio_nederland_wereldomroep.png"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_HUN_radio_orion"
+		texturefile = "gfx/interface/radio/HUN_radio_orion.png"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_CZE_cesky_rozhlas"
+		texturefile = "gfx/interface/radio/CZE_cesky_rozhlas.png"
+		noOfFrames = 2
+	}
+	
+	
+}

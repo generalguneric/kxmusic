@@ -1,0 +1,7596 @@
+music_station = "HOL_radio_nederland_wereldomroep"
+
+music = {
+	song = "aandegrens"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Aandestrijders"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "aandevoet"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "aanmijnheilands"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "aanmijnvolkmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "adelborsten"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "agnusdei"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "ainboer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "AlDieWillenTeKaaprenVaren"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "allamarcia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "allesgaatgoed"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "alsdedagvantoen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "alshetmaantjelacht"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "alsikmaarweet"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "alstbazuingeschal"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "amsterdam"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "amsterdambijnacht"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "amsterdammars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "aprilinportugal"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "ardennenmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "arsenalmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "artilleriemars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "astronautenmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "bijbeblondekatrien"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "BoerinnetjeVanVoorheen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Boertje"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "brandweermars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "brengeeseenzonnetje"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Broedersverheftutervrijheid"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "campdezeist1859"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "daarbijdewaterkant"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Daargingereenscheepje"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "DaarWasLaatstEenMeisjeLoos"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "deamateurband"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "debruiloft"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "DeDoodgewoonste"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Defileermars7eregiment"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Defileermars8eregiment"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Defileermarsderkoninklijkenederlandseluchtmacht"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Defileermarsderkoninklijkenederlandsemarine"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "defileermarsvandegenie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Defileermarsvanhet2eregimenthuzaren"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "degardemars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "deheersmijnherder"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "deherder"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "deinternationale"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "dekleinstebloem"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "delambethdance"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "denacht"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "deonderofficiermars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "depastoor"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "deroodenroepen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "dertodinflandern"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "destatenvanhollandmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "DesWintersAlsHetRegent"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "devlaamseleeuw"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "dezilvervlootmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "dezuiderzeeballade"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "dezwarteleeuw"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "dienstmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "dierbreheilandmijnverlosser"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "diezilvervloot"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "DomineNeMeminerisAdjuvaNos"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "doorjougaikleven"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "driezomerslang"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "eenliedjevankoppelstok"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "EenmaalKomJijTerug"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "engelandvardersmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "erekoning"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "ergroeiteenband"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "europamars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "eurovisiemars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "fanfaremars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "fantasiehetwilhelmus"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "feestmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "festivalmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "flatfootfloogie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "frohgelauntmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "funicilifuniciladutch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "GaillardeLesmerillone"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "gammatiquemars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "gardedragondersmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "GeefmijmaarAmsterdam"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "gelukkigishetland"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "geuzenlied"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "GluckAufMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "goudenharpenhoorikruisen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "goudenparademars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "grenadiersmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "grootrotterdammars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "grootvadersklok"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "handinhandkameraden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "HeelDeWereldbol"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "HeelHoogInHetBlauw"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Heidewitzka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "heiligenacht"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "helmetrainermars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "HermandadMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "HertogJanhetBrabantsvolkslied"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "HetBoemeltjeVanPurmerend"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "hetding"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "HetLiedVanDenSlangenbezweerder"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Hetliedvandevlag"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "HetMeisjemetdeGroeneJapon"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "hetvendelmoetmarcheren"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "hetwilhelmus1"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "hetwilhelmus2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "hetwilhelmus3"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "hetwilhelmus4"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "hetwilhelmusbalalaika"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "hollandsgloriemars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "hortensia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Huldigingsmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "HuygensXXXVII"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "huzarenmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "HuzarenvanSytzamaMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "IkHebeenHuisjemeteenTuinGehuurd"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "iltrovatore"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "imperatormars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "inderchristnacht"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "inrechtebaanmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "instilledalgroeneengelenwacht"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "intendancepresentmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "IsMiddernacht"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "ItaliaansEzelsserenade"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "jakameraden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "JeHebtJeSchitterendGehouden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "JubileummarsvandeKoninklijkeMarechaussee"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "JuniorenMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "kanjefluitenjohanna"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "kentgijhetland"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "kHebMijnWagenVolgeladen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "KLMmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "KMKmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "koffiekoffie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "KomtAllenTezamen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "KoningVoetbalMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "KoninklijkeMarineMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Korenbloemblauw"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Korenbloemenblauw"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "LeCourageuxMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "LeentjeEnHaarBroertjeJan"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "LeidenArnhemMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "levedemarinemars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "limburgsejagersmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "LuchtmachtDefileemars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "ManoeuvreMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "marathonmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "marchingsong"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "MareliberumMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "MarschvandeHeervanderDuyn"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Marsvande1eDivisie7December"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "MarsvandeGraafvanRechteren"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "MarsvandeHeerBoudaan"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Marsvanhet1eLegerkorps"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Marsvanhet4eRegimentDragonders"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "MarsvanhetPrinsesIreneBrigade"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "MarsvanhetRegimentvanHeutsz"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "marsvanlindeboom"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "marsvanramilles"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "marsvoordemarine"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "medicimars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "mercktochhoesterck"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "mercktochhoesterckinstrumental"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "mercktochhoesterckinstrumental2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "metromars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "metvollekrachtmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "MijnheerDingesWeetNietWatSwingIs"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "mijnnederland"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "MijnTanteVeronicaDieSpeeltHarmonica"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "MorgenGaathetBeter"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "morgenrood"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "naarzee"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Naastenliefde"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "netalstoen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "NuLaatOnsAllenVrolijkZijn"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "OHeerDieDaarDesHemelsTenteSpreidt"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "ohmama"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "oholynight"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "opdebarricades"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "OrgelhymneWiltHedenNuTreden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "OudHollandseTaptoe"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "overlordmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "PerasperaadastraMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "PeterStuyvesantMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "pindapindalekkalekka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "pizzalied"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "poldermars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "poolstermars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "RatsKuchenBonen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "RotterdamseVlagMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "roulette"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "schickhardconcerto"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "SchoonLieveken"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "SlaetopdenTrommele"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Socialistenmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Soldatenkoor1"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Soldatenkoor2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Spartamars2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Stadionmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "staywithmetillthemorning"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "SteedsvooraanMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "StrijdmarsderArbeiders"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Strohoedje"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "symphonyno4"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "teluwzegeningen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "TinekevanHeuleMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "traversoconcerto"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "triomfmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "trommars1"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "tulpenuitamsterdam"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "TweeOgenZoBlauw"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "TweeVoerlui"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "VBZmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "veiliginjezusarmen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "VerblijdUInZijnNaam"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "VerlosserVriendGijHoopEnLust"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "veteranenmars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "veteranenmars2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "VierdaagseMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "volkellied"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "VolksliedvanVlaanderen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "VolleVerzeekring"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "VoorDietslandditlied"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "voorwartschristenstrijders"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "voxinrama"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Vredepuz"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Vreugdevreugdeloutervreugde"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "WatMoutIkMetZonMan"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "WeGaanNaarRome"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "WeihnachtsGlocken"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "WelkEenVriendIsOnzeJezus"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "WerkWantDeNachtZalKomen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "WielrijdersLiedMars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "WienNeerlandsBloed"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "Wijstemmenrood"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "wilhelmusrhapsody"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "WitteRozen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "ZegKwezelkenWildeGijDansen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "ZieDeLelienOptVeld"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "ZieOnsWachtenAanDeStromen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "ZijVreugdeMijnDeelIs"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "zoekdezonop"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "zumeingang"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}
+music = {
+	song = "zumoffertorium"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HOL
+				tag = FLN
+				tag = DEI
+				tag = SUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = HOL
+		}
+		modifier = {
+			factor = 1
+			tag = FLN
+		}
+		modifier = {
+			factor = 1
+			tag = DEI
+		}
+		modifier = {
+			factor = 1
+			tag = SUR
+		}
+	}
+}

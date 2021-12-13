@@ -1,0 +1,1682 @@
+music_station = "BUL_radio_sofia"
+
+music = {
+	song = "bulgarian_song_1"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_3"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_4"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_5"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_6"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_7"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_8"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_9"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_10"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_11"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_12"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_13"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_14"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_15"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_16"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_17"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_18"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_19"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_20"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_21"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_22"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_23"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_24"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_25"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_26"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_27"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_28"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_29"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_30"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_31"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_32"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_33"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_34"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_35"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_36"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_37"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_38"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_39"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_40"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_41"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_42"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_43"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_44"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_45"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_46"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_47"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_48"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_49"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_50"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_51"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_52"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_53"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_54"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_55"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_56"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_57"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_58"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_59"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_60"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_61"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_62"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_63"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_64"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_65"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_66"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_67"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_68"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_69"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_70"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_71"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_72"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_73"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_74"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_75"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_76"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_77"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_78"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_79"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_80"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_81"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_82"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_83"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_84"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_85"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_86"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_87"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_88"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_89"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_90"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_91"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_92"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_93"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_94"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_95"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_96"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_97"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_98"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_99"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_100"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_101"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_102"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_103"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_104"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}
+music = {
+	song = "bulgarian_song_105"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BUL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BUL	
+		}
+	}
+}

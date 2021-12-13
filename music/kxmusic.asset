@@ -1,0 +1,3357 @@
+#### Bulgaria
+
+
+music = {
+	name = "bulgarian_song_1"
+	file = "BUL_radio_sofia/bulgarian_song_1.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_2"
+	file = "BUL_radio_sofia/bulgarian_song_2.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_3"
+	file = "BUL_radio_sofia/bulgarian_song_3.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_4"
+	file = "BUL_radio_sofia/bulgarian_song_4.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_5"
+	file = "BUL_radio_sofia/bulgarian_song_5.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_6"
+	file = "BUL_radio_sofia/bulgarian_song_6.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_7"
+	file = "BUL_radio_sofia/bulgarian_song_7.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_8"
+	file = "BUL_radio_sofia/bulgarian_song_8.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_9"
+	file = "BUL_radio_sofia/bulgarian_song_9.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_10"
+	file = "BUL_radio_sofia/bulgarian_song_10.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_11"
+	file = "BUL_radio_sofia/bulgarian_song_11.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_12"
+	file = "BUL_radio_sofia/bulgarian_song_12.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_13"
+	file = "BUL_radio_sofia/bulgarian_song_13.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_14"
+	file = "BUL_radio_sofia/bulgarian_song_14.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_15"
+	file = "BUL_radio_sofia/bulgarian_song_15.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_16"
+	file = "BUL_radio_sofia/bulgarian_song_16.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_17"
+	file = "BUL_radio_sofia/bulgarian_song_17.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_18"
+	file = "BUL_radio_sofia/bulgarian_song_18.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_19"
+	file = "BUL_radio_sofia/bulgarian_song_19.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_20"
+	file = "BUL_radio_sofia/bulgarian_song_20.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_21"
+	file = "BUL_radio_sofia/bulgarian_song_21.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_22"
+	file = "BUL_radio_sofia/bulgarian_song_22.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_23"
+	file = "BUL_radio_sofia/bulgarian_song_23.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_24"
+	file = "BUL_radio_sofia/bulgarian_song_24.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_25"
+	file = "BUL_radio_sofia/bulgarian_song_25.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_26"
+	file = "BUL_radio_sofia/bulgarian_song_26.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_27"
+	file = "BUL_radio_sofia/bulgarian_song_27.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_28"
+	file = "BUL_radio_sofia/bulgarian_song_28.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_29"
+	file = "BUL_radio_sofia/bulgarian_song_29.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_30"
+	file = "BUL_radio_sofia/bulgarian_song_30.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_31"
+	file = "BUL_radio_sofia/bulgarian_song_31.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_32"
+	file = "BUL_radio_sofia/bulgarian_song_32.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_33"
+	file = "BUL_radio_sofia/bulgarian_song_33.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_34"
+	file = "BUL_radio_sofia/bulgarian_song_34.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_35"
+	file = "BUL_radio_sofia/bulgarian_song_35.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_36"
+	file = "BUL_radio_sofia/bulgarian_song_36.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_37"
+	file = "BUL_radio_sofia/bulgarian_song_37.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_38"
+	file = "BUL_radio_sofia/bulgarian_song_38.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_39"
+	file = "BUL_radio_sofia/bulgarian_song_39.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_40"
+	file = "BUL_radio_sofia/bulgarian_song_40.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_41"
+	file = "BUL_radio_sofia/bulgarian_song_41.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_42"
+	file = "BUL_radio_sofia/bulgarian_song_42.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_43"
+	file = "BUL_radio_sofia/bulgarian_song_43.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_44"
+	file = "BUL_radio_sofia/bulgarian_song_44.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_45"
+	file = "BUL_radio_sofia/bulgarian_song_45.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_46"
+	file = "BUL_radio_sofia/bulgarian_song_46.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_47"
+	file = "BUL_radio_sofia/bulgarian_song_47.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_48"
+	file = "BUL_radio_sofia/bulgarian_song_48.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_49"
+	file = "BUL_radio_sofia/bulgarian_song_49.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_50"
+	file = "BUL_radio_sofia/bulgarian_song_50.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_51"
+	file = "BUL_radio_sofia/bulgarian_song_51.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_52"
+	file = "BUL_radio_sofia/bulgarian_song_52.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_53"
+	file = "BUL_radio_sofia/bulgarian_song_53.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_54"
+	file = "BUL_radio_sofia/bulgarian_song_54.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_55"
+	file = "BUL_radio_sofia/bulgarian_song_55.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_56"
+	file = "BUL_radio_sofia/bulgarian_song_56.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_57"
+	file = "BUL_radio_sofia/bulgarian_song_57.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_58"
+	file = "BUL_radio_sofia/bulgarian_song_58.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_59"
+	file = "BUL_radio_sofia/bulgarian_song_59.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_60"
+	file = "BUL_radio_sofia/bulgarian_song_60.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_61"
+	file = "BUL_radio_sofia/bulgarian_song_61.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_62"
+	file = "BUL_radio_sofia/bulgarian_song_62.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_63"
+	file = "BUL_radio_sofia/bulgarian_song_63.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_64"
+	file = "BUL_radio_sofia/bulgarian_song_64.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_65"
+	file = "BUL_radio_sofia/bulgarian_song_65.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_66"
+	file = "BUL_radio_sofia/bulgarian_song_66.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_67"
+	file = "BUL_radio_sofia/bulgarian_song_67.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_68"
+	file = "BUL_radio_sofia/bulgarian_song_68.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_69"
+	file = "BUL_radio_sofia/bulgarian_song_69.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_70"
+	file = "BUL_radio_sofia/bulgarian_song_70.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_71"
+	file = "BUL_radio_sofia/bulgarian_song_71.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_72"
+	file = "BUL_radio_sofia/bulgarian_song_72.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_73"
+	file = "BUL_radio_sofia/bulgarian_song_73.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_74"
+	file = "BUL_radio_sofia/bulgarian_song_74.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_75"
+	file = "BUL_radio_sofia/bulgarian_song_75.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_76"
+	file = "BUL_radio_sofia/bulgarian_song_76.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_77"
+	file = "BUL_radio_sofia/bulgarian_song_77.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_78"
+	file = "BUL_radio_sofia/bulgarian_song_78.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_79"
+	file = "BUL_radio_sofia/bulgarian_song_79.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_80"
+	file = "BUL_radio_sofia/bulgarian_song_80.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_81"
+	file = "BUL_radio_sofia/bulgarian_song_81.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_82"
+	file = "BUL_radio_sofia/bulgarian_song_82.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_83"
+	file = "BUL_radio_sofia/bulgarian_song_83.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_84"
+	file = "BUL_radio_sofia/bulgarian_song_84.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_85"
+	file = "BUL_radio_sofia/bulgarian_song_85.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_86"
+	file = "BUL_radio_sofia/bulgarian_song_86.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_87"
+	file = "BUL_radio_sofia/bulgarian_song_87.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_88"
+	file = "BUL_radio_sofia/bulgarian_song_88.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_89"
+	file = "BUL_radio_sofia/bulgarian_song_89.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_90"
+	file = "BUL_radio_sofia/bulgarian_song_90.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_91"
+	file = "BUL_radio_sofia/bulgarian_song_91.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_92"
+	file = "BUL_radio_sofia/bulgarian_song_92.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_93"
+	file = "BUL_radio_sofia/bulgarian_song_93.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_94"
+	file = "BUL_radio_sofia/bulgarian_song_94.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_95"
+	file = "BUL_radio_sofia/bulgarian_song_95.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_96"
+	file = "BUL_radio_sofia/bulgarian_song_96.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_97"
+	file = "BUL_radio_sofia/bulgarian_song_97.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_98"
+	file = "BUL_radio_sofia/bulgarian_song_98.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_99"
+	file = "BUL_radio_sofia/bulgarian_song_99.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_100"
+	file = "BUL_radio_sofia/bulgarian_song_100.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_101"
+	file = "BUL_radio_sofia/bulgarian_song_101.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_102"
+	file = "BUL_radio_sofia/bulgarian_song_102.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_103"
+	file = "BUL_radio_sofia/bulgarian_song_103.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_104"
+	file = "BUL_radio_sofia/bulgarian_song_104.ogg"
+	volume = 1.1
+}
+music = {
+	name = "bulgarian_song_105"
+	file = "BUL_radio_sofia/bulgarian_song_105.ogg"
+	volume = 1.1
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Dutch
+
+music = {
+	name = "aandegrens"
+	file = "HOL_radio_nederland_wereldomroep/aandegrens.ogg"
+	volume = 1
+}
+music = {
+	name = "Aandestrijders"
+	file = "HOL_radio_nederland_wereldomroep/Aandestrijders.ogg"
+	volume = 1
+}
+music = {
+	name = "aandevoet"
+	file = "HOL_radio_nederland_wereldomroep/aandevoet.ogg"
+	volume = 1
+}
+music = {
+	name = "aanmijnheilands"
+	file = "HOL_radio_nederland_wereldomroep/aanmijnheilands.ogg"
+	volume = 1
+}
+music = {
+	name = "aanmijnvolkmars"
+	file = "HOL_radio_nederland_wereldomroep/aanmijnvolkmars.ogg"
+	volume = 1
+}
+music = {
+	name = "adelborsten"
+	file = "HOL_radio_nederland_wereldomroep/adelborsten.ogg"
+	volume = 1
+}
+music = {
+	name = "agnusdei"
+	file = "HOL_radio_nederland_wereldomroep/agnusdei.ogg"
+	volume = 1
+}
+music = {
+	name = "ainboer"
+	file = "HOL_radio_nederland_wereldomroep/ainboer.ogg"
+	volume = 1
+}
+music = {
+	name = "AlDieWillenTeKaaprenVaren"
+	file = "HOL_radio_nederland_wereldomroep/AlDieWillenTeKaaprenVaren.ogg"
+	volume = 1
+}
+music = {
+	name = "allamarcia"
+	file = "HOL_radio_nederland_wereldomroep/allamarcia.ogg"
+	volume = 1
+}
+music = {
+	name = "allesgaatgoed"
+	file = "HOL_radio_nederland_wereldomroep/allesgaatgoed.ogg"
+	volume = 1
+}
+music = {
+	name = "alsdedagvantoen"
+	file = "HOL_radio_nederland_wereldomroep/alsdedagvantoen.ogg"
+	volume = 1
+}
+music = {
+	name = "alshetmaantjelacht"
+	file = "HOL_radio_nederland_wereldomroep/alshetmaantjelacht.ogg"
+	volume = 1
+}
+music = {
+	name = "alsikmaarweet"
+	file = "HOL_radio_nederland_wereldomroep/alsikmaarweet.ogg"
+	volume = 1
+}
+music = {
+	name = "alstbazuingeschal"
+	file = "HOL_radio_nederland_wereldomroep/alstbazuingeschal.ogg"
+	volume = 1
+}
+music = {
+	name = "amsterdam"
+	file = "HOL_radio_nederland_wereldomroep/amsterdam.ogg"
+	volume = 1
+}
+music = {
+	name = "amsterdambijnacht"
+	file = "HOL_radio_nederland_wereldomroep/amsterdambijnacht.ogg"
+	volume = 1
+}
+music = {
+	name = "amsterdammars"
+	file = "HOL_radio_nederland_wereldomroep/amsterdammars.ogg"
+	volume = 1
+}
+music = {
+	name = "aprilinportugal"
+	file = "HOL_radio_nederland_wereldomroep/aprilinportugal.ogg"
+	volume = 1
+}
+music = {
+	name = "ardennenmars"
+	file = "HOL_radio_nederland_wereldomroep/ardennenmars.ogg"
+	volume = 1
+}
+music = {
+	name = "arsenalmars"
+	file = "HOL_radio_nederland_wereldomroep/arsenalmars.ogg"
+	volume = 1
+}
+music = {
+	name = "artilleriemars"
+	file = "HOL_radio_nederland_wereldomroep/artilleriemars.ogg"
+	volume = 1
+}
+music = {
+	name = "astronautenmars"
+	file = "HOL_radio_nederland_wereldomroep/astronautenmars.ogg"
+	volume = 1
+}
+music = {
+	name = "bijbeblondekatrien"
+	file = "HOL_radio_nederland_wereldomroep/bijbeblondekatrien.ogg"
+	volume = 1
+}
+music = {
+	name = "BoerinnetjeVanVoorheen"
+	file = "HOL_radio_nederland_wereldomroep/BoerinnetjeVanVoorheen.ogg"
+	volume = 1
+}
+music = {
+	name = "Boertje"
+	file = "HOL_radio_nederland_wereldomroep/Boertje.ogg"
+	volume = 1
+}
+music = {
+	name = "brandweermars"
+	file = "HOL_radio_nederland_wereldomroep/brandweermars.ogg"
+	volume = 1
+}
+music = {
+	name = "brengeeseenzonnetje"
+	file = "HOL_radio_nederland_wereldomroep/brengeeseenzonnetje.ogg"
+	volume = 1
+}
+music = {
+	name = "Broedersverheftutervrijheid"
+	file = "HOL_radio_nederland_wereldomroep/Broedersverheftutervrijheid.ogg"
+	volume = 1
+}
+music = {
+	name = "campdezeist1859"
+	file = "HOL_radio_nederland_wereldomroep/campdezeist1859.ogg"
+	volume = 1
+}
+music = {
+	name = "daarbijdewaterkant"
+	file = "HOL_radio_nederland_wereldomroep/daarbijdewaterkant.ogg"
+	volume = 1
+}
+music = {
+	name = "Daargingereenscheepje"
+	file = "HOL_radio_nederland_wereldomroep/Daargingereenscheepje.ogg"
+	volume = 1
+}
+music = {
+	name = "DaarWasLaatstEenMeisjeLoos"
+	file = "HOL_radio_nederland_wereldomroep/DaarWasLaatstEenMeisjeLoos.ogg"
+	volume = 1
+}
+music = {
+	name = "deamateurband"
+	file = "HOL_radio_nederland_wereldomroep/deamateurband.ogg"
+	volume = 1
+}
+music = {
+	name = "debruiloft"
+	file = "HOL_radio_nederland_wereldomroep/debruiloft.ogg"
+	volume = 1
+}
+music = {
+	name = "DeDoodgewoonste"
+	file = "HOL_radio_nederland_wereldomroep/DeDoodgewoonste.ogg"
+	volume = 1
+}
+music = {
+	name = "Defileermars7eregiment"
+	file = "HOL_radio_nederland_wereldomroep/Defileermars7eregiment.ogg"
+	volume = 1
+}
+music = {
+	name = "Defileermars8eregiment"
+	file = "HOL_radio_nederland_wereldomroep/Defileermars8eregiment.ogg"
+	volume = 1
+}
+music = {
+	name = "Defileermarsderkoninklijkenederlandseluchtmacht"
+	file = "HOL_radio_nederland_wereldomroep/Defileermarsderkoninklijkenederlandseluchtmacht.ogg"
+	volume = 1
+}
+music = {
+	name = "Defileermarsderkoninklijkenederlandsemarine"
+	file = "HOL_radio_nederland_wereldomroep/Defileermarsderkoninklijkenederlandsemarine.ogg"
+	volume = 1
+}
+music = {
+	name = "defileermarsvandegenie"
+	file = "HOL_radio_nederland_wereldomroep/defileermarsvandegenie.ogg"
+	volume = 1
+}
+music = {
+	name = "Defileermarsvanhet2eregimenthuzaren"
+	file = "HOL_radio_nederland_wereldomroep/Defileermarsvanhet2eregimenthuzaren.ogg"
+	volume = 1
+}
+music = {
+	name = "degardemars"
+	file = "HOL_radio_nederland_wereldomroep/degardemars.ogg"
+	volume = 1
+}
+music = {
+	name = "deheersmijnherder"
+	file = "HOL_radio_nederland_wereldomroep/deheersmijnherder.ogg"
+	volume = 1
+}
+music = {
+	name = "deherder"
+	file = "HOL_radio_nederland_wereldomroep/deherder.ogg"
+	volume = 1
+}
+music = {
+	name = "deinternationale"
+	file = "HOL_radio_nederland_wereldomroep/deinternationale.ogg"
+	volume = 1
+}
+music = {
+	name = "dekleinstebloem"
+	file = "HOL_radio_nederland_wereldomroep/dekleinstebloem.ogg"
+	volume = 1
+}
+music = {
+	name = "delambethdance"
+	file = "HOL_radio_nederland_wereldomroep/delambethdance.ogg"
+	volume = 1
+}
+music = {
+	name = "denacht"
+	file = "HOL_radio_nederland_wereldomroep/denacht.ogg"
+	volume = 1
+}
+music = {
+	name = "deonderofficiermars"
+	file = "HOL_radio_nederland_wereldomroep/deonderofficiermars.ogg"
+	volume = 1
+}
+music = {
+	name = "depastoor"
+	file = "HOL_radio_nederland_wereldomroep/depastoor.ogg"
+	volume = 1
+}
+music = {
+	name = "deroodenroepen"
+	file = "HOL_radio_nederland_wereldomroep/deroodenroepen.ogg"
+	volume = 1
+}
+music = {
+	name = "dertodinflandern"
+	file = "HOL_radio_nederland_wereldomroep/dertodinflandern.ogg"
+	volume = 1
+}
+music = {
+	name = "destatenvanhollandmars"
+	file = "HOL_radio_nederland_wereldomroep/destatenvanhollandmars.ogg"
+	volume = 1
+}
+music = {
+	name = "DesWintersAlsHetRegent"
+	file = "HOL_radio_nederland_wereldomroep/DesWintersAlsHetRegent.ogg"
+	volume = 1
+}
+music = {
+	name = "devlaamseleeuw"
+	file = "HOL_radio_nederland_wereldomroep/devlaamseleeuw.ogg"
+	volume = 1
+}
+music = {
+	name = "dezilvervlootmars"
+	file = "HOL_radio_nederland_wereldomroep/dezilvervlootmars.ogg"
+	volume = 1
+}
+music = {
+	name = "dezuiderzeeballade"
+	file = "HOL_radio_nederland_wereldomroep/dezuiderzeeballade.ogg"
+	volume = 1
+}
+music = {
+	name = "dezwarteleeuw"
+	file = "HOL_radio_nederland_wereldomroep/dezwarteleeuw.ogg"
+	volume = 1
+}
+music = {
+	name = "dienstmars"
+	file = "HOL_radio_nederland_wereldomroep/dienstmars.ogg"
+	volume = 1
+}
+music = {
+	name = "dierbreheilandmijnverlosser"
+	file = "HOL_radio_nederland_wereldomroep/dierbreheilandmijnverlosser.ogg"
+	volume = 1
+}
+music = {
+	name = "diezilvervloot"
+	file = "HOL_radio_nederland_wereldomroep/diezilvervloot.ogg"
+	volume = 1
+}
+music = {
+	name = "DomineNeMeminerisAdjuvaNos"
+	file = "HOL_radio_nederland_wereldomroep/DomineNeMeminerisAdjuvaNos.ogg"
+	volume = 1
+}
+music = {
+	name = "doorjougaikleven"
+	file = "HOL_radio_nederland_wereldomroep/doorjougaikleven.ogg"
+	volume = 1
+}
+music = {
+	name = "driezomerslang"
+	file = "HOL_radio_nederland_wereldomroep/driezomerslang.ogg"
+	volume = 1
+}
+music = {
+	name = "eenliedjevankoppelstok"
+	file = "HOL_radio_nederland_wereldomroep/eenliedjevankoppelstok.ogg"
+	volume = 1
+}
+music = {
+	name = "EenmaalKomJijTerug"
+	file = "HOL_radio_nederland_wereldomroep/EenmaalKomJijTerug.ogg"
+	volume = 1
+}
+music = {
+	name = "engelandvardersmars"
+	file = "HOL_radio_nederland_wereldomroep/engelandvardersmars.ogg"
+	volume = 1
+}
+music = {
+	name = "erekoning"
+	file = "HOL_radio_nederland_wereldomroep/erekoning.ogg"
+	volume = 1
+}
+music = {
+	name = "ergroeiteenband"
+	file = "HOL_radio_nederland_wereldomroep/ergroeiteenband.ogg"
+	volume = 1
+}
+music = {
+	name = "europamars"
+	file = "HOL_radio_nederland_wereldomroep/europamars.ogg"
+	volume = 1
+}
+music = {
+	name = "eurovisiemars"
+	file = "HOL_radio_nederland_wereldomroep/eurovisiemars.ogg"
+	volume = 1
+}
+music = {
+	name = "fanfaremars"
+	file = "HOL_radio_nederland_wereldomroep/fanfaremars.ogg"
+	volume = 1
+}
+music = {
+	name = "fantasiehetwilhelmus"
+	file = "HOL_radio_nederland_wereldomroep/fantasiehetwilhelmus.ogg"
+	volume = 1
+}
+music = {
+	name = "feestmars"
+	file = "HOL_radio_nederland_wereldomroep/feestmars.ogg"
+	volume = 1
+}
+music = {
+	name = "festivalmars"
+	file = "HOL_radio_nederland_wereldomroep/festivalmars.ogg"
+	volume = 1
+}
+music = {
+	name = "flatfootfloogie"
+	file = "HOL_radio_nederland_wereldomroep/flatfootfloogie.ogg"
+	volume = 1
+}
+music = {
+	name = "frohgelauntmars"
+	file = "HOL_radio_nederland_wereldomroep/frohgelauntmars.ogg"
+	volume = 1
+}
+music = {
+	name = "funicilifuniciladutch"
+	file = "HOL_radio_nederland_wereldomroep/funicilifuniciladutch.ogg"
+	volume = 1
+}
+music = {
+	name = "GaillardeLesmerillone"
+	file = "HOL_radio_nederland_wereldomroep/GaillardeLesmerillone.ogg"
+	volume = 1
+}
+music = {
+	name = "gammatiquemars"
+	file = "HOL_radio_nederland_wereldomroep/gammatiquemars.ogg"
+	volume = 1
+}
+music = {
+	name = "gardedragondersmars"
+	file = "HOL_radio_nederland_wereldomroep/gardedragondersmars.ogg"
+	volume = 1
+}
+music = {
+	name = "GeefmijmaarAmsterdam"
+	file = "HOL_radio_nederland_wereldomroep/GeefmijmaarAmsterdam.ogg"
+	volume = 1
+}
+music = {
+	name = "gelukkigishetland"
+	file = "HOL_radio_nederland_wereldomroep/gelukkigishetland.ogg"
+	volume = 1
+}
+music = {
+	name = "geuzenlied"
+	file = "HOL_radio_nederland_wereldomroep/geuzenlied.ogg"
+	volume = 1
+}
+music = {
+	name = "GluckAufMars"
+	file = "HOL_radio_nederland_wereldomroep/GluckAufMars.ogg"
+	volume = 1
+}
+music = {
+	name = "goudenharpenhoorikruisen"
+	file = "HOL_radio_nederland_wereldomroep/goudenharpenhoorikruisen.ogg"
+	volume = 1
+}
+music = {
+	name = "goudenparademars"
+	file = "HOL_radio_nederland_wereldomroep/goudenparademars.ogg"
+	volume = 1
+}
+music = {
+	name = "grenadiersmars"
+	file = "HOL_radio_nederland_wereldomroep/grenadiersmars.ogg"
+	volume = 1
+}
+music = {
+	name = "grootrotterdammars"
+	file = "HOL_radio_nederland_wereldomroep/grootrotterdammars.ogg"
+	volume = 1
+}
+music = {
+	name = "grootvadersklok"
+	file = "HOL_radio_nederland_wereldomroep/grootvadersklok.ogg"
+	volume = 1
+}
+music = {
+	name = "handinhandkameraden"
+	file = "HOL_radio_nederland_wereldomroep/handinhandkameraden.ogg"
+	volume = 1
+}
+music = {
+	name = "HeelDeWereldbol"
+	file = "HOL_radio_nederland_wereldomroep/HeelDeWereldbol.ogg"
+	volume = 1
+}
+music = {
+	name = "HeelHoogInHetBlauw"
+	file = "HOL_radio_nederland_wereldomroep/HeelHoogInHetBlauw.ogg"
+	volume = 1
+}
+music = {
+	name = "Heidewitzka"
+	file = "HOL_radio_nederland_wereldomroep/Heidewitzka.ogg"
+	volume = 1
+}
+music = {
+	name = "heiligenacht"
+	file = "HOL_radio_nederland_wereldomroep/heiligenacht.ogg"
+	volume = 1
+}
+music = {
+	name = "helmetrainermars"
+	file = "HOL_radio_nederland_wereldomroep/helmetrainermars.ogg"
+	volume = 1
+}
+music = {
+	name = "HermandadMars"
+	file = "HOL_radio_nederland_wereldomroep/HermandadMars.ogg"
+	volume = 1
+}
+music = {
+	name = "HertogJanhetBrabantsvolkslied"
+	file = "HOL_radio_nederland_wereldomroep/HertogJanhetBrabantsvolkslied.ogg"
+	volume = 1
+}
+music = {
+	name = "HetBoemeltjeVanPurmerend"
+	file = "HOL_radio_nederland_wereldomroep/HetBoemeltjeVanPurmerend.ogg"
+	volume = 1
+}
+music = {
+	name = "hetding"
+	file = "HOL_radio_nederland_wereldomroep/hetding.ogg"
+	volume = 1
+}
+music = {
+	name = "HetLiedVanDenSlangenbezweerder"
+	file = "HOL_radio_nederland_wereldomroep/HetLiedVanDenSlangenbezweerder.ogg"
+	volume = 1
+}
+music = {
+	name = "Hetliedvandevlag"
+	file = "HOL_radio_nederland_wereldomroep/Hetliedvandevlag.ogg"
+	volume = 1
+}
+music = {
+	name = "HetMeisjemetdeGroeneJapon"
+	file = "HOL_radio_nederland_wereldomroep/HetMeisjemetdeGroeneJapon.ogg"
+	volume = 1
+}
+music = {
+	name = "hetvendelmoetmarcheren"
+	file = "HOL_radio_nederland_wereldomroep/hetvendelmoetmarcheren.ogg"
+	volume = 1
+}
+music = {
+	name = "hetwilhelmus1"
+	file = "HOL_radio_nederland_wereldomroep/hetwilhelmus1.ogg"
+	volume = 1
+}
+music = {
+	name = "hetwilhelmus2"
+	file = "HOL_radio_nederland_wereldomroep/hetwilhelmus2.ogg"
+	volume = 1
+}
+music = {
+	name = "hetwilhelmus3"
+	file = "HOL_radio_nederland_wereldomroep/hetwilhelmus3.ogg"
+	volume = 1
+}
+music = {
+	name = "hetwilhelmus4"
+	file = "HOL_radio_nederland_wereldomroep/hetwilhelmus4.ogg"
+	volume = 1
+}
+music = {
+	name = "hetwilhelmusbalalaika"
+	file = "HOL_radio_nederland_wereldomroep/hetwilhelmusbalalaika.ogg"
+	volume = 1
+}
+music = {
+	name = "hollandsgloriemars"
+	file = "HOL_radio_nederland_wereldomroep/hollandsgloriemars.ogg"
+	volume = 1
+}
+music = {
+	name = "hortensia"
+	file = "HOL_radio_nederland_wereldomroep/hortensia.ogg"
+	volume = 1
+}
+music = {
+	name = "Huldigingsmars"
+	file = "HOL_radio_nederland_wereldomroep/Huldigingsmars.ogg"
+	volume = 1
+}
+music = {
+	name = "HuygensXXXVII"
+	file = "HOL_radio_nederland_wereldomroep/HuygensXXXVII.ogg"
+	volume = 1
+}
+music = {
+	name = "huzarenmars"
+	file = "HOL_radio_nederland_wereldomroep/huzarenmars.ogg"
+	volume = 1
+}
+music = {
+	name = "HuzarenvanSytzamaMars"
+	file = "HOL_radio_nederland_wereldomroep/HuzarenvanSytzamaMars.ogg"
+	volume = 1
+}
+music = {
+	name = "IkHebeenHuisjemeteenTuinGehuurd"
+	file = "HOL_radio_nederland_wereldomroep/IkHebeenHuisjemeteenTuinGehuurd.ogg"
+	volume = 1
+}
+music = {
+	name = "iltrovatore"
+	file = "HOL_radio_nederland_wereldomroep/iltrovatore.ogg"
+	volume = 1
+}
+music = {
+	name = "imperatormars"
+	file = "HOL_radio_nederland_wereldomroep/imperatormars.ogg"
+	volume = 1
+}
+music = {
+	name = "inderchristnacht"
+	file = "HOL_radio_nederland_wereldomroep/inderchristnacht.ogg"
+	volume = 1
+}
+music = {
+	name = "inrechtebaanmars"
+	file = "HOL_radio_nederland_wereldomroep/inrechtebaanmars.ogg"
+	volume = 1
+}
+music = {
+	name = "instilledalgroeneengelenwacht"
+	file = "HOL_radio_nederland_wereldomroep/instilledalgroeneengelenwacht.ogg"
+	volume = 1
+}
+music = {
+	name = "intendancepresentmars"
+	file = "HOL_radio_nederland_wereldomroep/intendancepresentmars.ogg"
+	volume = 1
+}
+music = {
+	name = "IsMiddernacht"
+	file = "HOL_radio_nederland_wereldomroep/IsMiddernacht.ogg"
+	volume = 1
+}
+music = {
+	name = "ItaliaansEzelsserenade"
+	file = "HOL_radio_nederland_wereldomroep/ItaliaansEzelsserenade.ogg"
+	volume = 1
+}
+music = {
+	name = "jakameraden"
+	file = "HOL_radio_nederland_wereldomroep/jakameraden.ogg"
+	volume = 1
+}
+music = {
+	name = "JeHebtJeSchitterendGehouden"
+	file = "HOL_radio_nederland_wereldomroep/JeHebtJeSchitterendGehouden.ogg"
+	volume = 1
+}
+music = {
+	name = "JubileummarsvandeKoninklijkeMarechaussee"
+	file = "HOL_radio_nederland_wereldomroep/JubileummarsvandeKoninklijkeMarechaussee.ogg"
+	volume = 1
+}
+music = {
+	name = "JuniorenMars"
+	file = "HOL_radio_nederland_wereldomroep/JuniorenMars.ogg"
+	volume = 1
+}
+music = {
+	name = "kanjefluitenjohanna"
+	file = "HOL_radio_nederland_wereldomroep/kanjefluitenjohanna.ogg"
+	volume = 1
+}
+music = {
+	name = "kentgijhetland"
+	file = "HOL_radio_nederland_wereldomroep/kentgijhetland.ogg"
+	volume = 1
+}
+music = {
+	name = "kHebMijnWagenVolgeladen"
+	file = "HOL_radio_nederland_wereldomroep/kHebMijnWagenVolgeladen.ogg"
+	volume = 1
+}
+music = {
+	name = "KLMmars"
+	file = "HOL_radio_nederland_wereldomroep/KLMmars.ogg"
+	volume = 1
+}
+music = {
+	name = "KMKmars"
+	file = "HOL_radio_nederland_wereldomroep/KMKmars.ogg"
+	volume = 1
+}
+music = {
+	name = "koffiekoffie"
+	file = "HOL_radio_nederland_wereldomroep/koffiekoffie.ogg"
+	volume = 1
+}
+music = {
+	name = "KomtAllenTezamen"
+	file = "HOL_radio_nederland_wereldomroep/KomtAllenTezamen.ogg"
+	volume = 1
+}
+music = {
+	name = "KoningVoetbalMars"
+	file = "HOL_radio_nederland_wereldomroep/KoningVoetbalMars.ogg"
+	volume = 1
+}
+music = {
+	name = "KoninklijkeMarineMars"
+	file = "HOL_radio_nederland_wereldomroep/KoninklijkeMarineMars.ogg"
+	volume = 1
+}
+music = {
+	name = "Korenbloemblauw"
+	file = "HOL_radio_nederland_wereldomroep/Korenbloemblauw.ogg"
+	volume = 1
+}
+music = {
+	name = "Korenbloemenblauw"
+	file = "HOL_radio_nederland_wereldomroep/Korenbloemenblauw.ogg"
+	volume = 1
+}
+music = {
+	name = "LeCourageuxMars"
+	file = "HOL_radio_nederland_wereldomroep/LeCourageuxMars.ogg"
+	volume = 1
+}
+music = {
+	name = "LeentjeEnHaarBroertjeJan"
+	file = "HOL_radio_nederland_wereldomroep/LeentjeEnHaarBroertjeJan.ogg"
+	volume = 1
+}
+music = {
+	name = "LeidenArnhemMars"
+	file = "HOL_radio_nederland_wereldomroep/LeidenArnhemMars.ogg"
+	volume = 1
+}
+music = {
+	name = "levedemarinemars"
+	file = "HOL_radio_nederland_wereldomroep/levedemarinemars.ogg"
+	volume = 1
+}
+music = {
+	name = "limburgsejagersmars"
+	file = "HOL_radio_nederland_wereldomroep/limburgsejagersmars.ogg"
+	volume = 1
+}
+music = {
+	name = "LuchtmachtDefileemars"
+	file = "HOL_radio_nederland_wereldomroep/LuchtmachtDefileemars.ogg"
+	volume = 1
+}
+music = {
+	name = "ManoeuvreMars"
+	file = "HOL_radio_nederland_wereldomroep/ManoeuvreMars.ogg"
+	volume = 1
+}
+music = {
+	name = "marathonmars"
+	file = "HOL_radio_nederland_wereldomroep/marathonmars.ogg"
+	volume = 1
+}
+music = {
+	name = "marchingsong"
+	file = "HOL_radio_nederland_wereldomroep/marchingsong.ogg"
+	volume = 1
+}
+music = {
+	name = "MareliberumMars"
+	file = "HOL_radio_nederland_wereldomroep/MareliberumMars.ogg"
+	volume = 1
+}
+music = {
+	name = "MarschvandeHeervanderDuyn"
+	file = "HOL_radio_nederland_wereldomroep/MarschvandeHeervanderDuyn.ogg"
+	volume = 1
+}
+music = {
+	name = "Marsvande1eDivisie7December"
+	file = "HOL_radio_nederland_wereldomroep/Marsvande1eDivisie7December.ogg"
+	volume = 1
+}
+music = {
+	name = "MarsvandeGraafvanRechteren"
+	file = "HOL_radio_nederland_wereldomroep/MarsvandeGraafvanRechteren.ogg"
+	volume = 1
+}
+music = {
+	name = "MarsvandeHeerBoudaan"
+	file = "HOL_radio_nederland_wereldomroep/MarsvandeHeerBoudaan.ogg"
+	volume = 1
+}
+music = {
+	name = "Marsvanhet1eLegerkorps"
+	file = "HOL_radio_nederland_wereldomroep/Marsvanhet1eLegerkorps.ogg"
+	volume = 1
+}
+music = {
+	name = "Marsvanhet4eRegimentDragonders"
+	file = "HOL_radio_nederland_wereldomroep/Marsvanhet4eRegimentDragonders.ogg"
+	volume = 1
+}
+music = {
+	name = "MarsvanhetPrinsesIreneBrigade"
+	file = "HOL_radio_nederland_wereldomroep/MarsvanhetPrinsesIreneBrigade.ogg"
+	volume = 1
+}
+music = {
+	name = "MarsvanhetRegimentvanHeutsz"
+	file = "HOL_radio_nederland_wereldomroep/MarsvanhetRegimentvanHeutsz.ogg"
+	volume = 1
+}
+music = {
+	name = "marsvanlindeboom"
+	file = "HOL_radio_nederland_wereldomroep/marsvanlindeboom.ogg"
+	volume = 1
+}
+music = {
+	name = "marsvanramilles"
+	file = "HOL_radio_nederland_wereldomroep/marsvanramilles.ogg"
+	volume = 1
+}
+music = {
+	name = "marsvoordemarine"
+	file = "HOL_radio_nederland_wereldomroep/marsvoordemarine.ogg"
+	volume = 1
+}
+music = {
+	name = "medicimars"
+	file = "HOL_radio_nederland_wereldomroep/medicimars.ogg"
+	volume = 1
+}
+music = {
+	name = "mercktochhoesterck"
+	file = "HOL_radio_nederland_wereldomroep/mercktochhoesterck.ogg"
+	volume = 1
+}
+music = {
+	name = "mercktochhoesterckinstrumental"
+	file = "HOL_radio_nederland_wereldomroep/mercktochhoesterckinstrumental.ogg"
+	volume = 1
+}
+music = {
+	name = "mercktochhoesterckinstrumental2"
+	file = "HOL_radio_nederland_wereldomroep/mercktochhoesterckinstrumental2.ogg"
+	volume = 1
+}
+music = {
+	name = "metromars"
+	file = "HOL_radio_nederland_wereldomroep/metromars.ogg"
+	volume = 1
+}
+music = {
+	name = "metvollekrachtmars"
+	file = "HOL_radio_nederland_wereldomroep/metvollekrachtmars.ogg"
+	volume = 1
+}
+music = {
+	name = "MijnheerDingesWeetNietWatSwingIs"
+	file = "HOL_radio_nederland_wereldomroep/MijnheerDingesWeetNietWatSwingIs.ogg"
+	volume = 1
+}
+music = {
+	name = "mijnnederland"
+	file = "HOL_radio_nederland_wereldomroep/mijnnederland.ogg"
+	volume = 1
+}
+music = {
+	name = "MijnTanteVeronicaDieSpeeltHarmonica"
+	file = "HOL_radio_nederland_wereldomroep/MijnTanteVeronicaDieSpeeltHarmonica.ogg"
+	volume = 1
+}
+music = {
+	name = "MorgenGaathetBeter"
+	file = "HOL_radio_nederland_wereldomroep/MorgenGaathetBeter.ogg"
+	volume = 1
+}
+music = {
+	name = "morgenrood"
+	file = "HOL_radio_nederland_wereldomroep/morgenrood.ogg"
+	volume = 1
+}
+music = {
+	name = "naarzee"
+	file = "HOL_radio_nederland_wereldomroep/naarzee.ogg"
+	volume = 1
+}
+music = {
+	name = "Naastenliefde"
+	file = "HOL_radio_nederland_wereldomroep/Naastenliefde.ogg"
+	volume = 1
+}
+music = {
+	name = "netalstoen"
+	file = "HOL_radio_nederland_wereldomroep/netalstoen.ogg"
+	volume = 1
+}
+music = {
+	name = "NuLaatOnsAllenVrolijkZijn"
+	file = "HOL_radio_nederland_wereldomroep/NuLaatOnsAllenVrolijkZijn.ogg"
+	volume = 1
+}
+music = {
+	name = "OHeerDieDaarDesHemelsTenteSpreidt"
+	file = "HOL_radio_nederland_wereldomroep/OHeerDieDaarDesHemelsTenteSpreidt.ogg"
+	volume = 1
+}
+music = {
+	name = "ohmama"
+	file = "HOL_radio_nederland_wereldomroep/ohmama.ogg"
+	volume = 1
+}
+music = {
+	name = "oholynight"
+	file = "HOL_radio_nederland_wereldomroep/oholynight.ogg"
+	volume = 1
+}
+music = {
+	name = "opdebarricades"
+	file = "HOL_radio_nederland_wereldomroep/opdebarricades.ogg"
+	volume = 1
+}
+music = {
+	name = "OrgelhymneWiltHedenNuTreden"
+	file = "HOL_radio_nederland_wereldomroep/OrgelhymneWiltHedenNuTreden.ogg"
+	volume = 1
+}
+music = {
+	name = "OudHollandseTaptoe"
+	file = "HOL_radio_nederland_wereldomroep/OudHollandseTaptoe.ogg"
+	volume = 1
+}
+music = {
+	name = "overlordmars"
+	file = "HOL_radio_nederland_wereldomroep/overlordmars.ogg"
+	volume = 1
+}
+music = {
+	name = "PerasperaadastraMars"
+	file = "HOL_radio_nederland_wereldomroep/PerasperaadastraMars.ogg"
+	volume = 1
+}
+music = {
+	name = "PeterStuyvesantMars"
+	file = "HOL_radio_nederland_wereldomroep/PeterStuyvesantMars.ogg"
+	volume = 1
+}
+music = {
+	name = "pindapindalekkalekka"
+	file = "HOL_radio_nederland_wereldomroep/pindapindalekkalekka.ogg"
+	volume = 1
+}
+music = {
+	name = "pizzalied"
+	file = "HOL_radio_nederland_wereldomroep/pizzalied.ogg"
+	volume = 1
+}
+music = {
+	name = "poldermars"
+	file = "HOL_radio_nederland_wereldomroep/poldermars.ogg"
+	volume = 1
+}
+music = {
+	name = "poolstermars"
+	file = "HOL_radio_nederland_wereldomroep/poolstermars.ogg"
+	volume = 1
+}
+music = {
+	name = "RatsKuchenBonen"
+	file = "HOL_radio_nederland_wereldomroep/RatsKuchenBonen.ogg"
+	volume = 1
+}
+music = {
+	name = "RotterdamseVlagMars"
+	file = "HOL_radio_nederland_wereldomroep/RotterdamseVlagMars.ogg"
+	volume = 1
+}
+music = {
+	name = "roulette"
+	file = "HOL_radio_nederland_wereldomroep/roulette.ogg"
+	volume = 1
+}
+music = {
+	name = "schickhardconcerto"
+	file = "HOL_radio_nederland_wereldomroep/schickhardconcerto.ogg"
+	volume = 1
+}
+music = {
+	name = "SchoonLieveken"
+	file = "HOL_radio_nederland_wereldomroep/SchoonLieveken.ogg"
+	volume = 1
+}
+music = {
+	name = "SlaetopdenTrommele"
+	file = "HOL_radio_nederland_wereldomroep/SlaetopdenTrommele.ogg"
+	volume = 1
+}
+music = {
+	name = "Socialistenmars"
+	file = "HOL_radio_nederland_wereldomroep/Socialistenmars.ogg"
+	volume = 1
+}
+music = {
+	name = "Soldatenkoor1"
+	file = "HOL_radio_nederland_wereldomroep/Soldatenkoor1.ogg"
+	volume = 1
+}
+music = {
+	name = "Soldatenkoor2"
+	file = "HOL_radio_nederland_wereldomroep/Soldatenkoor2.ogg"
+	volume = 1
+}
+music = {
+	name = "Spartamars2"
+	file = "HOL_radio_nederland_wereldomroep/Spartamars2.ogg"
+	volume = 1
+}
+music = {
+	name = "Stadionmars"
+	file = "HOL_radio_nederland_wereldomroep/Stadionmars.ogg"
+	volume = 1
+}
+music = {
+	name = "staywithmetillthemorning"
+	file = "HOL_radio_nederland_wereldomroep/staywithmetillthemorning.ogg"
+	volume = 1
+}
+music = {
+	name = "SteedsvooraanMars"
+	file = "HOL_radio_nederland_wereldomroep/SteedsvooraanMars.ogg"
+	volume = 1
+}
+music = {
+	name = "StrijdmarsderArbeiders"
+	file = "HOL_radio_nederland_wereldomroep/StrijdmarsderArbeiders.ogg"
+	volume = 1
+}
+music = {
+	name = "Strohoedje"
+	file = "HOL_radio_nederland_wereldomroep/Strohoedje.ogg"
+	volume = 1
+}
+music = {
+	name = "symphonyno4"
+	file = "HOL_radio_nederland_wereldomroep/symphonyno4.ogg"
+	volume = 1
+}
+music = {
+	name = "teluwzegeningen"
+	file = "HOL_radio_nederland_wereldomroep/teluwzegeningen.ogg"
+	volume = 1
+}
+music = {
+	name = "TinekevanHeuleMars"
+	file = "HOL_radio_nederland_wereldomroep/TinekevanHeuleMars.ogg"
+	volume = 1
+}
+music = {
+	name = "traversoconcerto"
+	file = "HOL_radio_nederland_wereldomroep/traversoconcerto.ogg"
+	volume = 1
+}
+music = {
+	name = "triomfmars"
+	file = "HOL_radio_nederland_wereldomroep/triomfmars.ogg"
+	volume = 1
+}
+music = {
+	name = "trommars1"
+	file = "HOL_radio_nederland_wereldomroep/trommars1.ogg"
+	volume = 1
+}
+music = {
+	name = "tulpenuitamsterdam"
+	file = "HOL_radio_nederland_wereldomroep/tulpenuitamsterdam.ogg"
+	volume = 1
+}
+music = {
+	name = "TweeOgenZoBlauw"
+	file = "HOL_radio_nederland_wereldomroep/TweeOgenZoBlauw.ogg"
+	volume = 1
+}
+music = {
+	name = "TweeVoerlui"
+	file = "HOL_radio_nederland_wereldomroep/TweeVoerlui.ogg"
+	volume = 1
+}
+music = {
+	name = "VBZmars"
+	file = "HOL_radio_nederland_wereldomroep/VBZmars.ogg"
+	volume = 1
+}
+music = {
+	name = "veiliginjezusarmen"
+	file = "HOL_radio_nederland_wereldomroep/veiliginjezusarmen.ogg"
+	volume = 1
+}
+music = {
+	name = "VerblijdUInZijnNaam"
+	file = "HOL_radio_nederland_wereldomroep/VerblijdUInZijnNaam.ogg"
+	volume = 1
+}
+music = {
+	name = "VerlosserVriendGijHoopEnLust"
+	file = "HOL_radio_nederland_wereldomroep/VerlosserVriendGijHoopEnLust.ogg"
+	volume = 1
+}
+music = {
+	name = "veteranenmars"
+	file = "HOL_radio_nederland_wereldomroep/veteranenmars.ogg"
+	volume = 1
+}
+music = {
+	name = "veteranenmars2"
+	file = "HOL_radio_nederland_wereldomroep/veteranenmars2.ogg"
+	volume = 1
+}
+music = {
+	name = "VierdaagseMars"
+	file = "HOL_radio_nederland_wereldomroep/VierdaagseMars.ogg"
+	volume = 1
+}
+music = {
+	name = "volkellied"
+	file = "HOL_radio_nederland_wereldomroep/volkellied.ogg"
+	volume = 1
+}
+music = {
+	name = "VolksliedvanVlaanderen"
+	file = "HOL_radio_nederland_wereldomroep/VolksliedvanVlaanderen.ogg"
+	volume = 1
+}
+music = {
+	name = "VolleVerzeekring"
+	file = "HOL_radio_nederland_wereldomroep/VolleVerzeekring.ogg"
+	volume = 1
+}
+music = {
+	name = "VoorDietslandditlied"
+	file = "HOL_radio_nederland_wereldomroep/VoorDietslandditlied.ogg"
+	volume = 1
+}
+music = {
+	name = "voorwartschristenstrijders"
+	file = "HOL_radio_nederland_wereldomroep/voorwartschristenstrijders.ogg"
+	volume = 1
+}
+music = {
+	name = "voxinrama"
+	file = "HOL_radio_nederland_wereldomroep/voxinrama.ogg"
+	volume = 1
+}
+music = {
+	name = "Vredepuz"
+	file = "HOL_radio_nederland_wereldomroep/Vredepuz.ogg"
+	volume = 1
+}
+music = {
+	name = "Vreugdevreugdeloutervreugde"
+	file = "HOL_radio_nederland_wereldomroep/Vreugdevreugdeloutervreugde.ogg"
+	volume = 1
+}
+music = {
+	name = "WatMoutIkMetZonMan"
+	file = "HOL_radio_nederland_wereldomroep/WatMoutIkMetZonMan.ogg"
+	volume = 1
+}
+music = {
+	name = "WeGaanNaarRome"
+	file = "HOL_radio_nederland_wereldomroep/WeGaanNaarRome.ogg"
+	volume = 1
+}
+music = {
+	name = "WeihnachtsGlocken"
+	file = "HOL_radio_nederland_wereldomroep/WeihnachtsGlocken.ogg"
+	volume = 1
+}
+music = {
+	name = "WelkEenVriendIsOnzeJezus"
+	file = "HOL_radio_nederland_wereldomroep/WelkEenVriendIsOnzeJezus.ogg"
+	volume = 1
+}
+music = {
+	name = "WerkWantDeNachtZalKomen"
+	file = "HOL_radio_nederland_wereldomroep/WerkWantDeNachtZalKomen.ogg"
+	volume = 1
+}
+music = {
+	name = "WielrijdersLiedMars"
+	file = "HOL_radio_nederland_wereldomroep/WielrijdersLiedMars.ogg"
+	volume = 1
+}
+music = {
+	name = "WienNeerlandsBloed"
+	file = "HOL_radio_nederland_wereldomroep/WienNeerlandsBloed.ogg"
+	volume = 1
+}
+music = {
+	name = "Wijstemmenrood"
+	file = "HOL_radio_nederland_wereldomroep/Wijstemmenrood.ogg"
+	volume = 1
+}
+music = {
+	name = "wilhelmusrhapsody"
+	file = "HOL_radio_nederland_wereldomroep/wilhelmusrhapsody.ogg"
+	volume = 1
+}
+music = {
+	name = "WitteRozen"
+	file = "HOL_radio_nederland_wereldomroep/WitteRozen.ogg"
+	volume = 1
+}
+music = {
+	name = "ZegKwezelkenWildeGijDansen"
+	file = "HOL_radio_nederland_wereldomroep/ZegKwezelkenWildeGijDansen.ogg"
+	volume = 1
+}
+music = {
+	name = "ZieDeLelienOptVeld"
+	file = "HOL_radio_nederland_wereldomroep/ZieDeLelienOptVeld.ogg"
+	volume = 1
+}
+music = {
+	name = "ZieOnsWachtenAanDeStromen"
+	file = "HOL_radio_nederland_wereldomroep/ZieOnsWachtenAanDeStromen.ogg"
+	volume = 1
+}
+music = {
+	name = "ZijVreugdeMijnDeelIs"
+	file = "HOL_radio_nederland_wereldomroep/ZijVreugdeMijnDeelIs.ogg"
+	volume = 1
+}
+music = {
+	name = "zoekdezonop"
+	file = "HOL_radio_nederland_wereldomroep/zoekdezonop.ogg"
+	volume = 1
+}
+music = {
+	name = "zumeingang"
+	file = "HOL_radio_nederland_wereldomroep/zumeingang.ogg"
+	volume = 1
+}
+music = {
+	name = "zumoffertorium"
+	file = "HOL_radio_nederland_wereldomroep/zumoffertorium.ogg"
+	volume = 1
+}
+
+
+
+
+
+
+
+
+#### Hungary
+
+
+music = {
+	name = "hungarian_song_1"
+	file = "HUN_radio_orion/hungarian_song_1.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_2"
+	file = "HUN_radio_orion/hungarian_song_2.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_3"
+	file = "HUN_radio_orion/hungarian_song_3.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_4"
+	file = "HUN_radio_orion/hungarian_song_4.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_5"
+	file = "HUN_radio_orion/hungarian_song_5.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_6"
+	file = "HUN_radio_orion/hungarian_song_6.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_7"
+	file = "HUN_radio_orion/hungarian_song_7.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_8"
+	file = "HUN_radio_orion/hungarian_song_8.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_9"
+	file = "HUN_radio_orion/hungarian_song_9.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_10"
+	file = "HUN_radio_orion/hungarian_song_10.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_11"
+	file = "HUN_radio_orion/hungarian_song_11.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_12"
+	file = "HUN_radio_orion/hungarian_song_12.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_13"
+	file = "HUN_radio_orion/hungarian_song_13.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_14"
+	file = "HUN_radio_orion/hungarian_song_14.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_15"
+	file = "HUN_radio_orion/hungarian_song_15.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_16"
+	file = "HUN_radio_orion/hungarian_song_16.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_17"
+	file = "HUN_radio_orion/hungarian_song_17.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_18"
+	file = "HUN_radio_orion/hungarian_song_18.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_19"
+	file = "HUN_radio_orion/hungarian_song_19.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_20"
+	file = "HUN_radio_orion/hungarian_song_20.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_21"
+	file = "HUN_radio_orion/hungarian_song_21.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_22"
+	file = "HUN_radio_orion/hungarian_song_22.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_23"
+	file = "HUN_radio_orion/hungarian_song_23.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_24"
+	file = "HUN_radio_orion/hungarian_song_24.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_25"
+	file = "HUN_radio_orion/hungarian_song_25.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_26"
+	file = "HUN_radio_orion/hungarian_song_26.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_27"
+	file = "HUN_radio_orion/hungarian_song_27.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_28"
+	file = "HUN_radio_orion/hungarian_song_28.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_29"
+	file = "HUN_radio_orion/hungarian_song_29.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_30"
+	file = "HUN_radio_orion/hungarian_song_30.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_31"
+	file = "HUN_radio_orion/hungarian_song_31.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_32"
+	file = "HUN_radio_orion/hungarian_song_32.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_33"
+	file = "HUN_radio_orion/hungarian_song_33.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_34"
+	file = "HUN_radio_orion/hungarian_song_34.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_35"
+	file = "HUN_radio_orion/hungarian_song_35.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_36"
+	file = "HUN_radio_orion/hungarian_song_36.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_37"
+	file = "HUN_radio_orion/hungarian_song_37.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_38"
+	file = "HUN_radio_orion/hungarian_song_38.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_39"
+	file = "HUN_radio_orion/hungarian_song_39.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_40"
+	file = "HUN_radio_orion/hungarian_song_40.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_41"
+	file = "HUN_radio_orion/hungarian_song_41.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_42"
+	file = "HUN_radio_orion/hungarian_song_42.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_43"
+	file = "HUN_radio_orion/hungarian_song_43.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_44"
+	file = "HUN_radio_orion/hungarian_song_44.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_45"
+	file = "HUN_radio_orion/hungarian_song_45.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_46"
+	file = "HUN_radio_orion/hungarian_song_46.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_47"
+	file = "HUN_radio_orion/hungarian_song_47.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_48"
+	file = "HUN_radio_orion/hungarian_song_48.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_49"
+	file = "HUN_radio_orion/hungarian_song_49.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_50"
+	file = "HUN_radio_orion/hungarian_song_50.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_51"
+	file = "HUN_radio_orion/hungarian_song_51.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_52"
+	file = "HUN_radio_orion/hungarian_song_52.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_53"
+	file = "HUN_radio_orion/hungarian_song_53.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_54"
+	file = "HUN_radio_orion/hungarian_song_54.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_55"
+	file = "HUN_radio_orion/hungarian_song_55.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_56"
+	file = "HUN_radio_orion/hungarian_song_56.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_57"
+	file = "HUN_radio_orion/hungarian_song_57.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_58"
+	file = "HUN_radio_orion/hungarian_song_58.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_59"
+	file = "HUN_radio_orion/hungarian_song_59.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_60"
+	file = "HUN_radio_orion/hungarian_song_60.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_61"
+	file = "HUN_radio_orion/hungarian_song_61.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_62"
+	file = "HUN_radio_orion/hungarian_song_62.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_63"
+	file = "HUN_radio_orion/hungarian_song_63.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_64"
+	file = "HUN_radio_orion/hungarian_song_64.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_65"
+	file = "HUN_radio_orion/hungarian_song_65.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_66"
+	file = "HUN_radio_orion/hungarian_song_66.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_67"
+	file = "HUN_radio_orion/hungarian_song_67.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_68"
+	file = "HUN_radio_orion/hungarian_song_68.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_69"
+	file = "HUN_radio_orion/hungarian_song_69.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_70"
+	file = "HUN_radio_orion/hungarian_song_70.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_71"
+	file = "HUN_radio_orion/hungarian_song_71.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_72"
+	file = "HUN_radio_orion/hungarian_song_72.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_73"
+	file = "HUN_radio_orion/hungarian_song_73.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_74"
+	file = "HUN_radio_orion/hungarian_song_74.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_75"
+	file = "HUN_radio_orion/hungarian_song_75.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_76"
+	file = "HUN_radio_orion/hungarian_song_76.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_77"
+	file = "HUN_radio_orion/hungarian_song_77.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_78"
+	file = "HUN_radio_orion/hungarian_song_78.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_79"
+	file = "HUN_radio_orion/hungarian_song_79.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_80"
+	file = "HUN_radio_orion/hungarian_song_80.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_81"
+	file = "HUN_radio_orion/hungarian_song_81.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_82"
+	file = "HUN_radio_orion/hungarian_song_82.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_83"
+	file = "HUN_radio_orion/hungarian_song_83.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_84"
+	file = "HUN_radio_orion/hungarian_song_84.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_85"
+	file = "HUN_radio_orion/hungarian_song_85.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_86"
+	file = "HUN_radio_orion/hungarian_song_86.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_87"
+	file = "HUN_radio_orion/hungarian_song_87.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_88"
+	file = "HUN_radio_orion/hungarian_song_88.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_89"
+	file = "HUN_radio_orion/hungarian_song_89.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_90"
+	file = "HUN_radio_orion/hungarian_song_90.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_91"
+	file = "HUN_radio_orion/hungarian_song_91.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_92"
+	file = "HUN_radio_orion/hungarian_song_92.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_93"
+	file = "HUN_radio_orion/hungarian_song_93.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_94"
+	file = "HUN_radio_orion/hungarian_song_94.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_95"
+	file = "HUN_radio_orion/hungarian_song_95.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_96"
+	file = "HUN_radio_orion/hungarian_song_96.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_97"
+	file = "HUN_radio_orion/hungarian_song_97.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_98"
+	file = "HUN_radio_orion/hungarian_song_98.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_99"
+	file = "HUN_radio_orion/hungarian_song_99.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_100"
+	file = "HUN_radio_orion/hungarian_song_100.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_101"
+	file = "HUN_radio_orion/hungarian_song_101.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_102"
+	file = "HUN_radio_orion/hungarian_song_102.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_103"
+	file = "HUN_radio_orion/hungarian_song_103.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_104"
+	file = "HUN_radio_orion/hungarian_song_104.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_105"
+	file = "HUN_radio_orion/hungarian_song_105.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_106"
+	file = "HUN_radio_orion/hungarian_song_106.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_107"
+	file = "HUN_radio_orion/hungarian_song_107.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_108"
+	file = "HUN_radio_orion/hungarian_song_108.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_109"
+	file = "HUN_radio_orion/hungarian_song_109.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_110"
+	file = "HUN_radio_orion/hungarian_song_110.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_111"
+	file = "HUN_radio_orion/hungarian_song_111.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_112"
+	file = "HUN_radio_orion/hungarian_song_112.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_113"
+	file = "HUN_radio_orion/hungarian_song_113.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_114"
+	file = "HUN_radio_orion/hungarian_song_114.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_115"
+	file = "HUN_radio_orion/hungarian_song_115.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_116"
+	file = "HUN_radio_orion/hungarian_song_116.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_117"
+	file = "HUN_radio_orion/hungarian_song_117.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_118"
+	file = "HUN_radio_orion/hungarian_song_118.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_119"
+	file = "HUN_radio_orion/hungarian_song_119.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_120"
+	file = "HUN_radio_orion/hungarian_song_120.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_121"
+	file = "HUN_radio_orion/hungarian_song_121.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_122"
+	file = "HUN_radio_orion/hungarian_song_122.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_123"
+	file = "HUN_radio_orion/hungarian_song_123.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_124"
+	file = "HUN_radio_orion/hungarian_song_124.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_125"
+	file = "HUN_radio_orion/hungarian_song_125.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_126"
+	file = "HUN_radio_orion/hungarian_song_126.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_127"
+	file = "HUN_radio_orion/hungarian_song_127.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_128"
+	file = "HUN_radio_orion/hungarian_song_128.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_129"
+	file = "HUN_radio_orion/hungarian_song_129.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_130"
+	file = "HUN_radio_orion/hungarian_song_130.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_131"
+	file = "HUN_radio_orion/hungarian_song_131.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_132"
+	file = "HUN_radio_orion/hungarian_song_132.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_133"
+	file = "HUN_radio_orion/hungarian_song_133.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_134"
+	file = "HUN_radio_orion/hungarian_song_134.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_135"
+	file = "HUN_radio_orion/hungarian_song_135.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_136"
+	file = "HUN_radio_orion/hungarian_song_136.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_137"
+	file = "HUN_radio_orion/hungarian_song_137.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_138"
+	file = "HUN_radio_orion/hungarian_song_138.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_139"
+	file = "HUN_radio_orion/hungarian_song_139.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_140"
+	file = "HUN_radio_orion/hungarian_song_140.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_141"
+	file = "HUN_radio_orion/hungarian_song_141.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_142"
+	file = "HUN_radio_orion/hungarian_song_142.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_143"
+	file = "HUN_radio_orion/hungarian_song_143.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_144"
+	file = "HUN_radio_orion/hungarian_song_144.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_145"
+	file = "HUN_radio_orion/hungarian_song_145.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_146"
+	file = "HUN_radio_orion/hungarian_song_146.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_147"
+	file = "HUN_radio_orion/hungarian_song_147.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_148"
+	file = "HUN_radio_orion/hungarian_song_148.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_149"
+	file = "HUN_radio_orion/hungarian_song_149.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_150"
+	file = "HUN_radio_orion/hungarian_song_150.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_151"
+	file = "HUN_radio_orion/hungarian_song_151.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_152"
+	file = "HUN_radio_orion/hungarian_song_152.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_153"
+	file = "HUN_radio_orion/hungarian_song_153.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_154"
+	file = "HUN_radio_orion/hungarian_song_154.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_155"
+	file = "HUN_radio_orion/hungarian_song_155.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_156"
+	file = "HUN_radio_orion/hungarian_song_156.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_157"
+	file = "HUN_radio_orion/hungarian_song_157.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_158"
+	file = "HUN_radio_orion/hungarian_song_158.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_159"
+	file = "HUN_radio_orion/hungarian_song_159.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_160"
+	file = "HUN_radio_orion/hungarian_song_160.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_161"
+	file = "HUN_radio_orion/hungarian_song_161.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_162"
+	file = "HUN_radio_orion/hungarian_song_162.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_163"
+	file = "HUN_radio_orion/hungarian_song_163.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_164"
+	file = "HUN_radio_orion/hungarian_song_164.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_165"
+	file = "HUN_radio_orion/hungarian_song_165.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_166"
+	file = "HUN_radio_orion/hungarian_song_166.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_167"
+	file = "HUN_radio_orion/hungarian_song_167.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_song_168"
+	file = "HUN_radio_orion/hungarian_song_168.ogg"
+	volume = 1
+}
+
+
+
+
+
+
+
+
+
+
+#### Bohemia
+
+
+music = {
+	name = "beerbarrelpolka"
+	file = "CZE_cesky_rozhlas/beerbarrelpolka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "entryofthegladiators"
+	file = "CZE_cesky_rozhlas/entryofthegladiators.ogg"
+	volume = 1
+}
+
+music = {
+	name = "florentinemarch"
+	file = "CZE_cesky_rozhlas/florentinemarch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "hercegovac"
+	file = "CZE_cesky_rozhlas/hercegovac.ogg"
+	volume = 1
+}
+
+music = {
+	name = "hojvzhurupestrysokole"
+	file = "CZE_cesky_rozhlas/hojvzhurupestrysokole.ogg"
+	volume = 1
+}
+
+music = {
+	name = "hranicevzpala"
+	file = "CZE_cesky_rozhlas/hranicevzpala.ogg"
+	volume = 1
+}
+
+music = {
+	name = "internacionala"
+	file = "CZE_cesky_rozhlas/internacionala.ogg"
+	volume = 1
+}
+
+music = {
+	name = "kapitanrimek"
+	file = "CZE_cesky_rozhlas/kapitanrimek.ogg"
+	volume = 1
+}
+
+music = {
+	name = "kolinekoline"
+	file = "CZE_cesky_rozhlas/kolinekoline.ogg"
+	volume = 1
+}
+
+music = {
+	name = "lvisilou"
+	file = "CZE_cesky_rozhlas/lvisilou.ogg"
+	volume = 1
+}
+
+music = {
+	name = "nastatickumasaryku"
+	file = "CZE_cesky_rozhlas/nastatickumasaryku.ogg"
+	volume = 1
+}
+
+music = {
+	name = "roundaroundvysehrad"
+	file = "CZE_cesky_rozhlas/roundaroundvysehrad.ogg"
+	volume = 1
+}
+
+music = {
+	name = "smerpraha"
+	file = "CZE_cesky_rozhlas/smerpraha.ogg"
+	volume = 1
+}
+
+music = {
+	name = "threefolksongs"
+	file = "CZE_cesky_rozhlas/threefolksongs.ogg"
+	volume = 1
+}
+
+music = {
+	name = "tuzmese"
+	file = "CZE_cesky_rozhlas/tuzmese.ogg"
+	volume = 1
+}
+
+music = {
+	name = "uncleteddy"
+	file = "CZE_cesky_rozhlas/uncleteddy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "undertheadmiralsflag"
+	file = "CZE_cesky_rozhlas/undertheadmiralsflag.ogg"
+	volume = 1
+}
+
+music = {
+	name = "viteznemladi"
+	file = "CZE_cesky_rozhlas/viteznemladi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "vnovyzivot"
+	file = "CZE_cesky_rozhlas/vnovyzivot.ogg"
+	volume = 1
+}
+
+music = {
+	name = "weregoingtowar"
+	file = "CZE_cesky_rozhlas/weregoingtowar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "narodnigardy"
+	file = "CZE_cesky_rozhlas/narodnigardy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "hejslovane"
+	file = "CZE_cesky_rozhlas/hejslovane.ogg"
+	volume = 1
+}
+
+
+
+
+
+music = {
+	name = "katablazen"
+	file = "CZE_cesky_rozhlas/katablazen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "konselska"
+	file = "CZE_cesky_rozhlas/konselska.ogg"
+	volume = 1
+}
+
+music = {
+	name = "kratcepopulnoci"
+	file = "CZE_cesky_rozhlas/kratcepopulnoci.ogg"
+	volume = 1
+}
+
+music = {
+	name = "moraviansong1"
+	file = "CZE_cesky_rozhlas/moraviansong1.ogg"
+	volume = 1
+}
+
+music = {
+	name = "moraviansong2"
+	file = "CZE_cesky_rozhlas/moraviansong2.ogg"
+	volume = 1
+}
+
+music = {
+	name = "omarie"
+	file = "CZE_cesky_rozhlas/omarie.ogg"
+	volume = 1
+}
+
+music = {
+	name = "rosamunde"
+	file = "CZE_cesky_rozhlas/rosamunde.ogg"
+	volume = 1
+}
+
+music = {
+	name = "saxofonsuzi"
+	file = "CZE_cesky_rozhlas/saxofonsuzi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "svita"
+	file = "CZE_cesky_rozhlas/svita.ogg"
+	volume = 1
+}
+
+music = {
+	name = "tmavomodrysvet"
+	file = "CZE_cesky_rozhlas/tmavomodrysvet.ogg"
+	volume = 1
+}
+
+music = {
+	name = "vlajkavzhuruleti"
+	file = "CZE_cesky_rozhlas/vlajkavzhuruleti.ogg"
+	volume = 1
+}
+
+
+
+
+
+music = {
+	name = "18erreisingermarsch"
+	file = "CZE_cesky_rozhlas/18erreisingermarsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "brnenska"
+	file = "CZE_cesky_rozhlas/brnenska.ogg"
+	volume = 1
+}
+
+music = {
+	name = "catchinrhythm"
+	file = "CZE_cesky_rozhlas/catchinrhythm.ogg"
+	volume = 1
+}
+
+music = {
+	name = "dlouhacestaktipperary"
+	file = "CZE_cesky_rozhlas/dlouhacestaktipperary.ogg"
+	volume = 1
+}
+
+music = {
+	name = "godownmoses"
+	file = "CZE_cesky_rozhlas/godownmoses.ogg"
+	volume = 1
+}
+
+music = {
+	name = "happygolucky"
+	file = "CZE_cesky_rozhlas/happygolucky.ogg"
+	volume = 1
+}
+
+music = {
+	name = "jarabacek"
+	file = "CZE_cesky_rozhlas/jarabacek.ogg"
+	volume = 1
+}
+
+music = {
+	name = "jaramladi"
+	file = "CZE_cesky_rozhlas/jaramladi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "lamarseillaiseczech"
+	file = "CZE_cesky_rozhlas/lamarseillaiseczech.ogg"
+	volume = 1
+}
+
+music = {
+	name = "muzikymuziky"
+	file = "CZE_cesky_rozhlas/muzikymuziky.ogg"
+	volume = 1
+}
+
+music = {
+	name = "radetzkymarchviolin"
+	file = "CZE_cesky_rozhlas/radetzkymarchviolin.ogg"
+	volume = 1
+}
+
+music = {
+	name = "riviera"
+	file = "CZE_cesky_rozhlas/riviera.ogg"
+	volume = 1
+}
+
+music = {
+	name = "varsavjanka"
+	file = "CZE_cesky_rozhlas/varsavjanka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "vzpominkanazbiroh"
+	file = "CZE_cesky_rozhlas/vzpominkanazbiroh.ogg"
+	volume = 1
+}
+
+music = {
+	name = "zelenyhajove"
+	file = "CZE_cesky_rozhlas/zelenyhajove.ogg"
+	volume = 1
+}
+
+music = {
+	name = "zemedelska"
+	file = "CZE_cesky_rozhlas/zemedelska.ogg"
+	volume = 1
+}
+
+
+
+
+
+music = {
+	name = "achsynkusynku"
+	file = "CZE_cesky_rozhlas/achsynkusynku.ogg"
+	volume = 1
+}
+
+music = {
+	name = "artista"
+	file = "CZE_cesky_rozhlas/artista.ogg"
+	volume = 1
+}
+
+music = {
+	name = "baletkyop226"
+	file = "CZE_cesky_rozhlas/baletkyop226.ogg"
+	volume = 1
+}
+
+music = {
+	name = "bezbarneaverne"
+	file = "CZE_cesky_rozhlas/bezbarneaverne.ogg"
+	volume = 1
+}
+
+music = {
+	name = "castaldomarsch"
+	file = "CZE_cesky_rozhlas/castaldomarsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "ceskapolka"
+	file = "CZE_cesky_rozhlas/ceskapolka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "ceskytanec"
+	file = "CZE_cesky_rozhlas/ceskytanec.ogg"
+	volume = 1
+}
+
+music = {
+	name = "cojetozadevcatko"
+	file = "CZE_cesky_rozhlas/cojetozadevcatko.ogg"
+	volume = 1
+}
+
+music = {
+	name = "czechdrinkingsong"
+	file = "CZE_cesky_rozhlas/czechdrinkingsong.ogg"
+	volume = 1
+}
+
+music = {
+	name = "devcatkozkolonie"
+	file = "CZE_cesky_rozhlas/devcatkozkolonie.ogg"
+	volume = 1
+}
+
+music = {
+	name = "dobrounoc"
+	file = "CZE_cesky_rozhlas/dobrounoc.ogg"
+	volume = 1
+}
+
+music = {
+	name = "kamaradi"
+	file = "CZE_cesky_rozhlas/kamaradi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "kdedomovmuj"
+	file = "CZE_cesky_rozhlas/kdedomovmuj.ogg"
+	volume = 1
+}
+
+music = {
+	name = "kladenskakapela"
+	file = "CZE_cesky_rozhlas/kladenskakapela.ogg"
+	volume = 1
+}
+
+music = {
+	name = "kuprednulevazpatkynikrok"
+	file = "CZE_cesky_rozhlas/kuprednulevazpatkynikrok.ogg"
+	volume = 1
+}
+
+music = {
+	name = "lovuzdar"
+	file = "CZE_cesky_rozhlas/lovuzdar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "nanasivesnici"
+	file = "CZE_cesky_rozhlas/nanasivesnici.ogg"
+	volume = 1
+}
+
+music = {
+	name = "napaloucku"
+	file = "CZE_cesky_rozhlas/napaloucku.ogg"
+	volume = 1
+}
+
+music = {
+	name = "neapol"
+	file = "CZE_cesky_rozhlas/neapol.ogg"
+	volume = 1
+}
+
+music = {
+	name = "omoravo"
+	file = "CZE_cesky_rozhlas/omoravo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "partizanskymchodnikom"
+	file = "CZE_cesky_rozhlas/partizanskymchodnikom.ogg"
+	volume = 1
+}
+
+music = {
+	name = "plznizdar"
+	file = "CZE_cesky_rozhlas/plznizdar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "pochodtyrsovychborcu"
+	file = "CZE_cesky_rozhlas/pochodtyrsovychborcu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "polonezaztanecnisvity"
+	file = "CZE_cesky_rozhlas/polonezaztanecnisvity.ogg"
+	volume = 1
+}
+
+music = {
+	name = "prahapolka"
+	file = "CZE_cesky_rozhlas/prahapolka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "radostnebudemzpivati"
+	file = "CZE_cesky_rozhlas/radostnebudemzpivati.ogg"
+	volume = 1
+}
+
+music = {
+	name = "slavnostni"
+	file = "CZE_cesky_rozhlas/slavnostni.ogg"
+	volume = 1
+}
+
+music = {
+	name = "smesanglickychpisni"
+	file = "CZE_cesky_rozhlas/smesanglickychpisni.ogg"
+	volume = 1
+}
+
+music = {
+	name = "sokolskyden"
+	file = "CZE_cesky_rozhlas/sokolskyden.ogg"
+	volume = 1
+}
+
+music = {
+	name = "spartakus"
+	file = "CZE_cesky_rozhlas/spartakus.ogg"
+	volume = 1
+}
+
+music = {
+	name = "tamkolemostravy"
+	file = "CZE_cesky_rozhlas/tamkolemostravy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "tanasepisnickaceska"
+	file = "CZE_cesky_rozhlas/tanasepisnickaceska.ogg"
+	volume = 1
+}
+
+music = {
+	name = "vanocevanoce"
+	file = "CZE_cesky_rozhlas/vanocevanoce.ogg"
+	volume = 1
+}
+
+music = {
+	name = "vetvychocich"
+	file = "CZE_cesky_rozhlas/vetvychocich.ogg"
+	volume = 1
+}
+
+music = {
+	name = "vitez"
+	file = "CZE_cesky_rozhlas/vitez.ogg"
+	volume = 1
+}
+
+music = {
+	name = "vondrasimatosikoleda"
+	file = "CZE_cesky_rozhlas/vondrasimatosikoleda.ogg"
+	volume = 1
+}
+
+music = {
+	name = "vpredsoudruzismele"
+	file = "CZE_cesky_rozhlas/vpredsoudruzismele.ogg"
+	volume = 1
+}
+
+music = {
+	name = "zavitezstvim"
+	file = "CZE_cesky_rozhlas/zavitezstvim.ogg"
+	volume = 1
+}
+
+music = {
+	name = "zbloudila"
+	file = "CZE_cesky_rozhlas/zbloudila.ogg"
+	volume = 1
+}
+
+
+
+
+
+
+
+
+music = {
+	name = "moravomoravo"
+	file = "CZE_cesky_rozhlas/moravomoravo.ogg"
+	volume = 1
+}
+music = {
+	name = "svatovaclavskychorale"
+	file = "CZE_cesky_rozhlas/svatovaclavskychorale.ogg"
+	volume = 1
+}
+music = {
+	name = "hosiodzborova"
+	file = "CZE_cesky_rozhlas/hosiodzborova.ogg"
+	volume = 1
+}
+music = {
+	name = "zacisarepana"
+	file = "CZE_cesky_rozhlas/zacisarepana.ogg"
+	volume = 1
+}
+music = {
+	name = "vzhuruhlavy"
+	file = "CZE_cesky_rozhlas/vzhuruhlavy.ogg"
+	volume = 1
+}
+music = {
+	name = "unasichkasaren"
+	file = "CZE_cesky_rozhlas/unasichkasaren.ogg"
+	volume = 1
+}
+music = {
+	name = "gotterhalteczech"
+	file = "CZE_cesky_rozhlas/gotterhalteczech.ogg"
+	volume = 1
+}
+music = {
+	name = "babickamary"
+	file = "CZE_cesky_rozhlas/babickamary.ogg"
+	volume = 1
+}
+music = {
+	name = "ktozjsubozibojovnici"
+	file = "CZE_cesky_rozhlas/ktozjsubozibojovnici.ogg"
+	volume = 1
+}
+music = {
+	name = "pochodvitezstvi"
+	file = "CZE_cesky_rozhlas/pochodvitezstvi.ogg"
+	volume = 1
+}
+music = {
+	name = "unasichkasarenfast"
+	file = "CZE_cesky_rozhlas/unasichkasarenfast.ogg"
+	volume = 1
+}
+music = {
+	name = "starspangledbanner"
+	file = "CZE_cesky_rozhlas/starspangledbanner.ogg"
+	volume = 1
+}
+music = {
+	name = "strojsestroj"
+	file = "CZE_cesky_rozhlas/strojsestroj.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "carnival_op_92"
+	file = "CZE_cesky_rozhlas/carnival_op_92.ogg"
+	volume = 1
+}
+music = {
+	name = "DielustigeDorfschmiedeMarsch"
+	file = "CZE_cesky_rozhlas/DielustigeDorfschmiedeMarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "EchtesWienerBlutMarsch"
+	file = "CZE_cesky_rozhlas/EchtesWienerBlutMarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "fucikkinizsiindulo"
+	file = "CZE_cesky_rozhlas/fucikkinizsiindulo.ogg"
+	volume = 1
+}
+music = {
+	name = "FurchtlosundTreuMarsch"
+	file = "CZE_cesky_rozhlas/FurchtlosundTreuMarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "koniggratzer"
+	file = "CZE_cesky_rozhlas/koniggratzer.ogg"
+	volume = 1
+}
+music = {
+	name = "koniggratzerindianajones"
+	file = "CZE_cesky_rozhlas/koniggratzerindianajones.ogg"
+	volume = 1
+}
+music = {
+	name = "LassetunsdasLebengeniessen"
+	file = "CZE_cesky_rozhlas/LassetunsdasLebengeniessen.ogg"
+	volume = 1
+}
+music = {
+	name = "myhomeop62"
+	file = "CZE_cesky_rozhlas/myhomeop62.ogg"
+	volume = 1
+}
+music = {
+	name = "salveimperator"
+	file = "CZE_cesky_rozhlas/salveimperator.ogg"
+	volume = 1
+}
+music = {
+	name = "SchneidigVorMarsch"
+	file = "CZE_cesky_rozhlas/SchneidigVorMarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "symphonyno9"
+	file = "CZE_cesky_rozhlas/symphonyno9.ogg"
+	volume = 1
+}
+music = {
+	name = "Thun-Hohenstein-Marsch"
+	file = "CZE_cesky_rozhlas/Thun-Hohenstein-Marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "vindobonamarsch"
+	file = "CZE_cesky_rozhlas/vindobonamarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "Zlatykolovrat_op109"
+	file = "CZE_cesky_rozhlas/Zlatykolovrat_op109.ogg"
+	volume = 1
+}
+music = {
+	name = "moldau"
+	file = "CZE_cesky_rozhlas/moldau.ogg"
+	volume = 1
+}

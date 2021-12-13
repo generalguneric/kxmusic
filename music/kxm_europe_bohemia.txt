@@ -1,0 +1,2055 @@
+music_station = "CZE_cesky_rozhlas"
+
+music = {
+	song = "moldau"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "carnival_op_92"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "DielustigeDorfschmiedeMarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "EchtesWienerBlutMarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "fucikkinizsiindulo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "FurchtlosundTreuMarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "koniggratzer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "koniggratzerindianajones"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "LassetunsdasLebengeniessen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "myhomeop62"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "salveimperator"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "SchneidigVorMarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "symphonyno9"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "Thun-Hohenstein-Marsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "vindobonamarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+music = {
+	song = "Zlatykolovrat_op109"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE
+		}
+	}
+}
+
+music = {
+	song = "beerbarrelpolka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "entryofthegladiators"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "florentinemarch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "hercegovac"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "hojvzhurupestrysokole"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "hranicevzpala"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "internacionala"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "kapitanrimek"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "kolinekoline"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "lvisilou"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "nastatickumasaryku"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "roundaroundvysehrad"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "smerpraha"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "threefolksongs"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "tuzmese"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "uncleteddy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "undertheadmiralsflag"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "viteznemladi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "vnovyzivot"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "weregoingtowar"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "narodnigardy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "hejslovane"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+music = {
+	song = "katablazen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "konselska"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "kratcepopulnoci"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "moraviansong1"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "moraviansong2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "omarie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "rosamunde"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "saxofonsuzi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "svita"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "tmavomodrysvet"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "vlajkavzhuruleti"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+
+
+
+music = {
+	song = "18erreisingermarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "brnenska"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "catchinrhythm"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "dlouhacestaktipperary"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "godownmoses"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "happygolucky"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "jarabacek"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "jaramladi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "lamarseillaiseczech"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "muzikymuziky"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "radetzkymarchviolin"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "riviera"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "varsavjanka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "vzpominkanazbiroh"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "zelenyhajove"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "zemedelska"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+music = {
+	song = "achsynkusynku"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "artista"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "baletkyop226"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "bezbarneaverne"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "castaldomarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "ceskapolka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "ceskytanec"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "cojetozadevcatko"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "czechdrinkingsong"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "devcatkozkolonie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "dobrounoc"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+music = {
+	song = "kamaradi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "kdedomovmuj"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "kladenskakapela"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "kuprednulevazpatkynikrok"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "lovuzdar"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "nanasivesnici"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "napaloucku"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "neapol"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "omoravo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "partizanskymchodnikom"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "plznizdar"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "pochodtyrsovychborcu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "polonezaztanecnisvity"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "prahapolka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "radostnebudemzpivati"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "slavnostni"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "smesanglickychpisni"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "sokolskyden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "spartakus"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "tamkolemostravy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "tanasepisnickaceska"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "vanocevanoce"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "vetvychocich"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "vitez"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "vondrasimatosikoleda"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "vpredsoudruzismele"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "zavitezstvim"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+music = {
+	song = "zbloudila"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+music = {
+	song = "moravomoravo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "svatovaclavskychorale"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "hosiodzborova"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "zacisarepana"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "vzhuruhlavy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "unasichkasaren"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "gotterhalteczech"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "babickamary"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "ktozjsubozibojovnici"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "pochodvitezstvi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "unasichkasarenfast"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "starspangledbanner"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
+music = {
+	song = "strojsestroj"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CZE			
+		}
+	}
+}
